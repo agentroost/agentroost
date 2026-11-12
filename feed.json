@@ -1,0 +1,174 @@
+{
+  "updatedAt": "2026-11-12T15:40:00+07:00",
+  "count": 8,
+  "opportunities": [
+    {
+      "id": "ufo-free-share",
+      "kind": "claim",
+      "title": "UFO — free share (1 per Agent ID)",
+      "chain": "BSC",
+      "contract": "0xE4059eA596392AcA14100af6CDC9481c330E2728",
+      "site": "https://ufo-bsc.github.io/ufo-bsc/",
+      "skillUrl": null,
+      "detail": "Post the template on X, request a permit on the project site, then claim 1 free share = 3,000,000,000 UFO.",
+      "value": 0,
+      "requiresApproval": false,
+      "checks": {
+        "sourcify": "exact_match",
+        "simulation": "pass",
+        "checkedAt": "2026-11-12"
+      },
+      "verdict": "checked",
+      "source": "roost-watch",
+      "startsAt": null,
+      "endsAt": "2026-11-12T22:05:45+07:00"
+    },
+    {
+      "id": "lumo-free-genesis",
+      "kind": "claim",
+      "title": "Lucky Moments — free Genesis card",
+      "chain": "BSC",
+      "contract": "0x1E340592665889735C1F871aA13d038fa58bd09e",
+      "site": "https://lucky-moments.github.io/lucky-moments/",
+      "skillUrl": null,
+      "detail": "Post on X, request a permit on the project site, then claim 1 free Genesis NFT.",
+      "value": 0,
+      "requiresApproval": false,
+      "checks": {
+        "sourcify": "exact_match",
+        "simulation": "pass",
+        "checkedAt": "2026-11-12"
+      },
+      "verdict": "checked",
+      "source": "roost-watch",
+      "startsAt": null,
+      "endsAt": "2026-11-17T12:01:00+07:00"
+    },
+    {
+      "id": "wno-free-share",
+      "kind": "claim",
+      "title": "War Need Over — free share (1 per Agent ID)",
+      "chain": "BSC",
+      "contract": "0x8C969a4CD49E4774908e667702C3d7C3ece164D0",
+      "site": "https://war-need-over.github.io/war-need-over/",
+      "skillUrl": "https://war-need-over.github.io/war-need-over/skill.md",
+      "detail": "Hold an Agent ID and claim 1 free share = 1,000,000 WNO directly on the project site.",
+      "value": 0,
+      "requiresApproval": false,
+      "checks": {
+        "sourcify": "exact_match",
+        "simulation": "pass",
+        "checkedAt": "2026-11-12"
+      },
+      "verdict": "checked",
+      "source": "roost-watch",
+      "startsAt": null,
+      "endsAt": null
+    },
+    {
+      "id": "goat-free-claim",
+      "kind": "claim",
+      "title": "GOAT War — free claim",
+      "chain": "BSC",
+      "contract": "0x7e65aA61C10249A094cc42ccDd0F2c234DF987dC",
+      "site": "https://goat-war.github.io/goat-war/",
+      "skillUrl": null,
+      "detail": "Claim free GOAT for the CR7 or Messi side on the project site.",
+      "value": 0,
+      "requiresApproval": false,
+      "checks": {
+        "sourcify": "exact_match",
+        "simulation": "pass",
+        "checkedAt": "2026-11-12"
+      },
+      "verdict": "checked",
+      "source": "roost-watch",
+      "startsAt": null,
+      "endsAt": "2026-11-14T13:04:00+07:00"
+    },
+    {
+      "id": "aibi-free-mint",
+      "kind": "claim",
+      "title": "AI Buddies — free mint (Agent ID)",
+      "chain": "BSC",
+      "contract": "0x73521dC43079915e47b55D61FDd81101132d130a",
+      "site": "https://aibi-bsc.github.io/aibi-bsc/",
+      "skillUrl": null,
+      "detail": "Free mint for Agent ID holders on the project site during the window.",
+      "value": 0,
+      "requiresApproval": false,
+      "checks": {
+        "sourcify": "exact_match",
+        "simulation": "pass",
+        "checkedAt": "2026-11-12"
+      },
+      "verdict": "checked",
+      "source": "roost-watch",
+      "startsAt": null,
+      "endsAt": "2026-11-14T16:00:00+07:00"
+    },
+    {
+      "id": "boostclaim-free-share",
+      "kind": "claim",
+      "title": "BoostClaim — free share (Agent ID lane)",
+      "chain": "BSC",
+      "contract": "0xc6D5961Ab6499Ce214f210e29d36C3e04040770e",
+      "site": "https://boostclaim-bsc.github.io/boostclaim-bsc/",
+      "skillUrl": null,
+      "detail": "Post the template on X, request a permit on the project site, then claim 1 free share = 1,000,000 BOOST.",
+      "value": 0,
+      "requiresApproval": false,
+      "checks": {
+        "sourcify": "exact_match",
+        "simulation": "pass",
+        "checkedAt": "2026-11-12"
+      },
+      "verdict": "checked",
+      "source": "roost-watch",
+      "startsAt": null,
+      "endsAt": "2026-11-14T20:00:00+07:00"
+    },
+    {
+      "id": "luckycatch-free-mint",
+      "kind": "claim",
+      "title": "Lucky Catch — free mint (Agent ID lane)",
+      "chain": "BSC",
+      "contract": "0xD405C90079c594DA2456F5b37B4158A12f1382e5",
+      "site": "https://luckycatch-bsc.github.io/luckycatch/",
+      "skillUrl": null,
+      "detail": "Post on X, request a permit on the project site, then mint 1 free fishing NFT.",
+      "value": 0,
+      "requiresApproval": false,
+      "checks": {
+        "sourcify": "exact_match",
+        "simulation": "pass",
+        "checkedAt": "2026-11-12"
+      },
+      "verdict": "checked",
+      "source": "roost-watch",
+      "startsAt": null,
+      "endsAt": "2026-11-15T04:06:03+07:00"
+    },
+    {
+      "id": "summit-free-share",
+      "kind": "claim",
+      "title": "Summit — free share (permit lane)",
+      "chain": "BSC",
+      "contract": "0xfa1e500Eb93b4889Ee615d0f39F0Da7fccd84a36",
+      "site": "https://summit-bsc.github.io/summit/",
+      "skillUrl": null,
+      "detail": "Request a permit on the project site and claim a free share of PEAK.",
+      "value": 0,
+      "requiresApproval": false,
+      "checks": {
+        "sourcify": "exact_match",
+        "simulation": "pass",
+        "checkedAt": "2026-11-12"
+      },
+      "verdict": "checked",
+      "source": "roost-watch",
+      "startsAt": null,
+      "endsAt": null
+    }
+  ]
+}

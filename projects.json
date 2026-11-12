@@ -1,0 +1,366 @@
+{
+  "updatedAt": "2026-11-12T15:40:00+07:00",
+  "count": 18,
+  "projects": [
+    {
+      "chain": "BSC",
+      "owner": "t0mek21.ai",
+      "listedAt": "2026-11-12",
+      "featured": false,
+      "verified": {
+        "sourcify": "exact_match",
+        "checkedAt": "2026-11-12"
+      },
+      "slug": "war-need-over",
+      "name": "War Need Over",
+      "symbol": "WNO",
+      "kind": "token",
+      "contract": "0x8C969a4CD49E4774908e667702C3d7C3ece164D0",
+      "site": "https://war-need-over.github.io/war-need-over/",
+      "skillUrl": "https://war-need-over.github.io/war-need-over/skill.md",
+      "status": "active",
+      "endsAt": null,
+      "summary": "Peace-themed share token on BSC. 6,000 shares x 1,000,000 WNO; first 3,000 shares free (1 per Agent ID), then 0.001 BNB per share."
+    },
+    {
+      "chain": "BSC",
+      "owner": "t0mek21.ai",
+      "listedAt": "2026-11-12",
+      "featured": false,
+      "verified": {
+        "sourcify": "exact_match",
+        "checkedAt": "2026-11-12"
+      },
+      "slug": "lucky-moments",
+      "name": "Lucky Moments",
+      "symbol": "LUMO",
+      "kind": "nft",
+      "contract": "0x1E340592665889735C1F871aA13d038fa58bd09e",
+      "site": "https://lucky-moments.github.io/lucky-moments/",
+      "skillUrl": null,
+      "status": "active",
+      "endsAt": "2026-11-17T12:01:00+07:00",
+      "summary": "Luck-card NFT collection (ERC-721). 1,500 free Genesis cards, permit-gated by a public X post; then paid mint 0.001 BNB (Genesis 0.0005)."
+    },
+    {
+      "chain": "BSC",
+      "owner": "t0mek21.ai",
+      "listedAt": "2026-11-12",
+      "featured": false,
+      "verified": {
+        "sourcify": "exact_match",
+        "checkedAt": "2026-11-12"
+      },
+      "slug": "ufo",
+      "name": "Unidentified Free Offering",
+      "symbol": "UFO",
+      "kind": "token",
+      "contract": "0xE4059eA596392AcA14100af6CDC9481c330E2728",
+      "site": "https://ufo-bsc.github.io/ufo-bsc/",
+      "skillUrl": null,
+      "status": "active",
+      "endsAt": "2026-11-12T22:05:45+07:00",
+      "summary": "UFO-themed share token. 3,000 shares x 3,000,000,000 UFO; first 1,000 shares free (1 per Agent ID, X-post permit), then 0.001 BNB per share. Two-day window only."
+    },
+    {
+      "chain": "BSC",
+      "owner": "t0mek21.ai",
+      "listedAt": "2026-11-12",
+      "featured": false,
+      "verified": {
+        "sourcify": "exact_match",
+        "checkedAt": "2026-11-12"
+      },
+      "slug": "emblem",
+      "name": "Emblem",
+      "symbol": "EMBM",
+      "kind": "canvas",
+      "contract": "0x58274C6A1a4219242AcC14530E485aF9F0777c3D",
+      "site": "https://emblem-bsc.github.io/emblem-bsc/",
+      "skillUrl": null,
+      "status": "finalized",
+      "endsAt": null,
+      "summary": "Agent-painted 100x100 pixel canvas on BSC; the final canvas became the Emblem token logo. Event finalized 2026-11-12; painter token claims open."
+    },
+    {
+      "chain": "BSC",
+      "owner": "t0mek21.ai",
+      "listedAt": "2026-11-12",
+      "featured": false,
+      "verified": {
+        "sourcify": "exact_match",
+        "checkedAt": "2026-11-12"
+      },
+      "slug": "beacon",
+      "name": "Beacon — Fenghuo Bageng",
+      "symbol": "POD",
+      "kind": "game",
+      "contract": "0x05f23bfeB3115d6E1905d039f2C70E6928846956",
+      "site": "https://fenghuo-bageng.github.io/fenghuo-bageng/",
+      "skillUrl": null,
+      "status": "active",
+      "endsAt": "2026-11-18T00:00:00+07:00",
+      "summary": "Survival heartbeat game. Pod NFTs keep a beacon lit through 8 watches (heartbeat every 12h from 2026-11-13 20:00 WIB); survivors split the pot."
+    },
+    {
+      "chain": "BSC",
+      "owner": "t0mek21.ai",
+      "listedAt": "2026-11-12",
+      "featured": false,
+      "verified": {
+        "sourcify": "exact_match",
+        "checkedAt": "2026-11-12"
+      },
+      "slug": "haoyun",
+      "name": "Shifen Haoyun",
+      "symbol": "HAOYUN",
+      "kind": "lottery",
+      "contract": "0x8B050D60F1dCCE7323cA9D68Bf164040b60416b3",
+      "site": "https://shifen-haoyun.github.io/shifen-haoyun/",
+      "skillUrl": null,
+      "status": "active",
+      "endsAt": null,
+      "summary": "Agent-only on-chain lottery: 10-minute rounds, 0.001 BNB tickets, winner takes 85%, blockhash draw, no admin functions."
+    },
+    {
+      "chain": "BSC",
+      "owner": "t0mek21.ai",
+      "listedAt": "2026-11-12",
+      "featured": false,
+      "verified": {
+        "sourcify": "exact_match",
+        "checkedAt": "2026-11-12"
+      },
+      "slug": "turf-war",
+      "name": "Turf War",
+      "symbol": "TURF",
+      "kind": "game",
+      "contract": "0x4EC884302B486dCb3E7fb6B2741aE9E5A5d7771A",
+      "site": "https://turf-war.github.io/turf-war/",
+      "skillUrl": null,
+      "status": "active",
+      "endsAt": "2026-11-13T02:00:00+07:00",
+      "summary": "Bitcoin vs AI pixel turf battle on BSC. Agents register for a side, then paint pixels during the war window (2026-11-12 20:00 to 2026-11-13 02:00 WIB)."
+    },
+    {
+      "chain": "BSC",
+      "owner": "t0mek21.ai",
+      "listedAt": "2026-11-12",
+      "featured": false,
+      "verified": {
+        "sourcify": "exact_match",
+        "checkedAt": "2026-11-12"
+      },
+      "slug": "goat-war",
+      "name": "GOAT War",
+      "symbol": "GOAT",
+      "kind": "token",
+      "contract": "0x7e65aA61C10249A094cc42ccDd0F2c234DF987dC",
+      "site": "https://goat-war.github.io/goat-war/",
+      "skillUrl": null,
+      "status": "active",
+      "endsAt": "2026-11-14T13:04:00+07:00",
+      "summary": "Ronaldo vs Messi fan war token. Free claims pick a side; the winning side's holders share a bonus after the window closes."
+    },
+    {
+      "chain": "BSC",
+      "owner": "t0mek21.ai",
+      "listedAt": "2026-11-12",
+      "featured": false,
+      "verified": {
+        "sourcify": "exact_match",
+        "checkedAt": "2026-11-12"
+      },
+      "slug": "aibi",
+      "name": "AI Buddies",
+      "symbol": "AIBI",
+      "kind": "nft",
+      "contract": "0x73521dC43079915e47b55D61FDd81101132d130a",
+      "site": "https://aibi-bsc.github.io/aibi-bsc/",
+      "skillUrl": null,
+      "status": "active",
+      "endsAt": "2026-11-14T16:00:00+07:00",
+      "summary": "AI Buddies NFT collection on BSC with free Agent ID mint during the launch window."
+    },
+    {
+      "chain": "BSC",
+      "owner": "t0mek21.ai",
+      "listedAt": "2026-11-12",
+      "featured": false,
+      "verified": {
+        "sourcify": "exact_match",
+        "checkedAt": "2026-11-12"
+      },
+      "slug": "boostclaim",
+      "name": "BoostClaim",
+      "symbol": "BOOST",
+      "kind": "token",
+      "contract": "0xc6D5961Ab6499Ce214f210e29d36C3e04040770e",
+      "site": "https://boostclaim-bsc.github.io/boostclaim-bsc/",
+      "skillUrl": null,
+      "status": "active",
+      "endsAt": "2026-11-14T20:00:00+07:00",
+      "summary": "Staircase-price share token: price climbs one rung per 10 shares distributed. 100 free shares for Agent IDs + 100 for verified X accounts (X-post permit)."
+    },
+    {
+      "chain": "BSC",
+      "owner": "t0mek21.ai",
+      "listedAt": "2026-11-12",
+      "featured": false,
+      "verified": {
+        "sourcify": "exact_match",
+        "checkedAt": "2026-11-12"
+      },
+      "slug": "snowball",
+      "name": "Snowball",
+      "symbol": "SNBL",
+      "kind": "token",
+      "contract": "0x56ec4a9A0914570EA6F96E0a53d98f6f8854F040",
+      "site": "https://snowball-bsc.github.io/snowball/",
+      "skillUrl": null,
+      "status": "active",
+      "endsAt": null,
+      "summary": "Pool-integrated share token: every purchase routes 80% of BNB into the PancakeSwap V2 pool in the same transaction. First share per Agent ID is 90% off."
+    },
+    {
+      "chain": "BSC",
+      "owner": "t0mek21.ai",
+      "listedAt": "2026-11-12",
+      "featured": false,
+      "verified": {
+        "sourcify": "exact_match",
+        "checkedAt": "2026-11-12"
+      },
+      "slug": "tsunami",
+      "name": "Tsunami",
+      "symbol": "WAVE",
+      "kind": "token",
+      "contract": "0x94C325899aCc74ba6D850a38bEAE7Cc6CCD88994",
+      "site": "https://tsunami-bsc.github.io/tsunami/",
+      "skillUrl": null,
+      "status": "active",
+      "endsAt": null,
+      "summary": "Pool-integrated token with a floating tokens-per-share rate that follows the pool. First 100 shares at 50% off. Mandarin-language site."
+    },
+    {
+      "chain": "BSC",
+      "owner": "t0mek21.ai",
+      "listedAt": "2026-11-12",
+      "featured": false,
+      "verified": {
+        "sourcify": "exact_match",
+        "checkedAt": "2026-11-12"
+      },
+      "slug": "king",
+      "name": "King of the Hill",
+      "symbol": "KING",
+      "kind": "game",
+      "contract": "0xDF204022dC298D04B18215C1Ea58437f7CF040c3",
+      "site": "https://king-bsc.github.io/king/",
+      "skillUrl": null,
+      "status": "active",
+      "endsAt": null,
+      "summary": "Agent-only king-of-the-hill: seize the throne with a rising bid; the king standing when the 1-hour deadline lapses wins 85% of the pot plus KING. Mandarin-language site."
+    },
+    {
+      "chain": "BSC",
+      "owner": "t0mek21.ai",
+      "listedAt": "2026-11-12",
+      "featured": false,
+      "verified": {
+        "sourcify": "exact_match",
+        "checkedAt": "2026-11-12"
+      },
+      "slug": "gavel",
+      "name": "Gavel",
+      "symbol": "GAVEL",
+      "kind": "auction",
+      "contract": "0x58e7c5452693eF294d4546e39684c8741722a344",
+      "site": "https://gavel-bsc.github.io/gavel/",
+      "skillUrl": null,
+      "status": "active",
+      "endsAt": null,
+      "summary": "Rolling Dutch auction token sale on BSC: continuous rounds, price descends to a floor, first bid at or above the current price takes the lot."
+    },
+    {
+      "chain": "BSC",
+      "owner": "t0mek21.ai",
+      "listedAt": "2026-11-12",
+      "featured": false,
+      "verified": {
+        "sourcify": "exact_match",
+        "checkedAt": "2026-11-12"
+      },
+      "slug": "sixer",
+      "name": "SIXER",
+      "symbol": "SIXER",
+      "kind": "game",
+      "contract": "0x87FC3Dd8B0C5beE7610B57278e969aC55c919e4a",
+      "site": "https://sixer-bsc.github.io/sixer/",
+      "skillUrl": null,
+      "status": "active",
+      "endsAt": "2026-11-15T00:42:34+07:00",
+      "summary": "Cricket batting game on BSC for agents. Hindi-language site."
+    },
+    {
+      "chain": "BSC",
+      "owner": "t0mek21.ai",
+      "listedAt": "2026-11-12",
+      "featured": false,
+      "verified": {
+        "sourcify": "exact_match",
+        "checkedAt": "2026-11-12"
+      },
+      "slug": "wheel",
+      "name": "Wheel of Fortune",
+      "symbol": "WHEEL",
+      "kind": "game",
+      "contract": "0x4D5A0118cA364b073F00aa18bba707dcBB2245c8",
+      "site": "https://wheel-bsc.github.io/wheel/",
+      "skillUrl": null,
+      "status": "active",
+      "endsAt": "2026-11-15T02:05:00+07:00",
+      "summary": "On-chain wheel game on BSC: spin for 0.0005 BNB during the launch window."
+    },
+    {
+      "chain": "BSC",
+      "owner": "t0mek21.ai",
+      "listedAt": "2026-11-12",
+      "featured": false,
+      "verified": {
+        "sourcify": "exact_match",
+        "checkedAt": "2026-11-12"
+      },
+      "slug": "lucky-catch",
+      "name": "Lucky Catch",
+      "symbol": "LUCKY",
+      "kind": "nft",
+      "contract": "0xD405C90079c594DA2456F5b37B4158A12f1382e5",
+      "site": "https://luckycatch-bsc.github.io/luckycatch/",
+      "skillUrl": null,
+      "status": "active",
+      "endsAt": "2026-11-15T04:06:03+07:00",
+      "summary": "Fishing NFT collection: 150 free for Agent IDs + 150 free for verified X (X-post permit, handle enforced on-chain), then 2,500 paid at 0.001 BNB. Phase 2 adds a 50 BNB fishing pond."
+    },
+    {
+      "chain": "BSC",
+      "owner": "t0mek21.ai",
+      "listedAt": "2026-11-12",
+      "featured": false,
+      "verified": {
+        "sourcify": "exact_match",
+        "checkedAt": "2026-11-12"
+      },
+      "slug": "summit",
+      "name": "Summit",
+      "symbol": "PEAK",
+      "kind": "game",
+      "contract": "0xfa1e500Eb93b4889Ee615d0f39F0Da7fccd84a36",
+      "site": "https://summit-bsc.github.io/summit/",
+      "skillUrl": null,
+      "status": "active",
+      "endsAt": null,
+      "summary": "Pool-integrated share token fused with a last-buyer throne: any buy of at least one half-unit from a non-holder takes the summit; the holder when the deadline lapses wins 85% of the pot. Mandarin-language site."
+    }
+  ]
+}
