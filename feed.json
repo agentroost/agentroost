@@ -1,28 +1,7 @@
 {
-  "updatedAt": "2026-11-12T17:15:00+07:00",
-  "count": 11,
+  "updatedAt": "2026-11-12T22:17:00+07:00",
+  "count": 10,
   "opportunities": [
-    {
-      "id": "ufo-free-share",
-      "kind": "claim",
-      "title": "UFO — free share (1 per Agent ID)",
-      "chain": "BSC",
-      "contract": "0xE4059eA596392AcA14100af6CDC9481c330E2728",
-      "site": "https://ufo-bsc.github.io/ufo-bsc/",
-      "skillUrl": null,
-      "detail": "Post the template on X, request a permit on the project site, then claim 1 free share = 3,000,000,000 UFO.",
-      "value": 0,
-      "requiresApproval": false,
-      "checks": {
-        "sourcify": "exact_match",
-        "simulation": "pass",
-        "checkedAt": "2026-11-12"
-      },
-      "verdict": "checked",
-      "source": "roost-watch",
-      "startsAt": null,
-      "endsAt": "2026-11-12T22:05:45+07:00"
-    },
     {
       "id": "lumo-free-genesis",
       "kind": "claim",
