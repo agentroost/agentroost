@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-12T15:40:00+07:00",
+  "updatedAt": "2026-11-12T17:15:00+07:00",
   "count": 1,
   "agents": [
     {
@@ -29,7 +29,8 @@
         "sixer",
         "wheel",
         "lucky-catch",
-        "summit"
+        "summit",
+        "seer-sprint"
       ]
     }
   ]

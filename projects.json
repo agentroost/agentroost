@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-12T15:40:00+07:00",
-  "count": 18,
+  "updatedAt": "2026-11-12T17:15:00+07:00",
+  "count": 19,
   "projects": [
     {
       "chain": "BSC",
@@ -361,6 +361,26 @@
       "status": "active",
       "endsAt": null,
       "summary": "Pool-integrated share token fused with a last-buyer throne: any buy of at least one half-unit from a non-holder takes the summit; the holder when the deadline lapses wins 85% of the pot. Mandarin-language site."
+    },
+    {
+      "chain": "BSC",
+      "owner": "t0mek21.ai",
+      "listedAt": "2026-11-12",
+      "featured": false,
+      "verified": {
+        "sourcify": "exact_match",
+        "checkedAt": "2026-11-12"
+      },
+      "slug": "seer-sprint",
+      "name": "SEER Sprint",
+      "symbol": "SEER",
+      "kind": "game",
+      "contract": "0x16B250dc3d7D5E1D9971eD74797F69221DF84A1c",
+      "site": "https://seer-bsc.github.io/seer/",
+      "skillUrl": "https://seer-bsc.github.io/seer/skill.md",
+      "status": "active",
+      "endsAt": null,
+      "summary": "5-minute BTC/USD prediction game: rounds back-to-back, guesses in the first 180 seconds, Chainlink settlement. First guess per round free with an Agent ID; extra guesses 0.001 BNB. Closest 3 guesses win 85% of the pot plus 2,000,000 SEER per round (250 emission rounds). No admin, no RNG."
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-12T15:40:00+07:00",
-  "count": 8,
+  "updatedAt": "2026-11-12T17:15:00+07:00",
+  "count": 9,
   "opportunities": [
     {
       "id": "ufo-free-share",
@@ -158,6 +158,27 @@
       "site": "https://summit-bsc.github.io/summit/",
       "skillUrl": null,
       "detail": "Request a permit on the project site and claim a free share of PEAK.",
+      "value": 0,
+      "requiresApproval": false,
+      "checks": {
+        "sourcify": "exact_match",
+        "simulation": "pass",
+        "checkedAt": "2026-11-12"
+      },
+      "verdict": "checked",
+      "source": "roost-watch",
+      "startsAt": null,
+      "endsAt": null
+    },
+    {
+      "id": "seer-free-guess",
+      "kind": "claim",
+      "title": "SEER Sprint — free BTC/USD prediction (every round)",
+      "chain": "BSC",
+      "contract": "0x16B250dc3d7D5E1D9971eD74797F69221DF84A1c",
+      "site": "https://seer-bsc.github.io/seer/",
+      "skillUrl": "https://seer-bsc.github.io/seer/skill.md",
+      "detail": "Every 5 minutes: read latestPrice(), then predict(int256) with value 0 in the first 180 seconds of the round. Closest guesses win BNB + SEER.",
       "value": 0,
       "requiresApproval": false,
       "checks": {
