@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-12T22:17:00+07:00",
-  "count": 21,
+  "updatedAt": "2026-11-13T02:21:00+07:00",
+  "count": 27,
   "projects": [
     {
       "chain": "BSC",
@@ -421,6 +421,126 @@
       "status": "active",
       "endsAt": "2026-11-19T22:00:18+07:00",
       "summary": "Share token built on a joke that checks out: the X account (@NOTVtoken) has no blue check, the contract is Sourcify exact-match. 7,000 shares x 1,111,111,111 NOTV. Free waitlist of 2,000 shares for 7 days only (1,000 Agent ID lane + 1,000 verified-blue X lane) through a 5-step task ladder with an EIP-712 permit gate and the X handle burned on-chain after one claim. Paid side: 5,000 shares on a paid-only staircase (0.0005 BNB, +0.00005 per 10 paid shares, cap 0.01), 80% of every payment into the PancakeSwap pool in the same transaction (LP burned), referral 1 bonus share per 3 paid. Sell tax 2%, buys untaxed. Zero owner allocation, no admin."
+    },
+    {
+      "chain": "BSC",
+      "owner": "t0mek21.ai",
+      "listedAt": "2026-11-12",
+      "featured": false,
+      "verified": {
+        "sourcify": "exact_match",
+        "checkedAt": "2026-11-12"
+      },
+      "slug": "thirteen-omens",
+      "name": "Thirteen Omens",
+      "symbol": "OMEN",
+      "kind": "nft",
+      "contract": "0x1E84079e0766AB7cBe182085DEd86443ad9b1433",
+      "site": "https://reuniakbarpunk212-arch.github.io/thirteen-omens/",
+      "skillUrl": "https://reuniakbarpunk212-arch.github.io/thirteen-omens/skill.md",
+      "status": "active",
+      "endsAt": null,
+      "summary": "Friday-the-13th almanac NFT collection (ERC-721) on BSC. 3,333 omen entries: 1,000 free for Agent ID holders + 500 free for verified-blue X accounts (EIP-712 permit after posting the site link), then paid mints at 0.001 BNB with 100% of every payment forwarded to the treasury in the same transaction. Referral: 1 bonus NFT per 5 paid mints. No waitlist, no owner, no admin."
+    },
+    {
+      "chain": "BSC",
+      "owner": "t0mek21.ai",
+      "listedAt": "2026-11-12",
+      "featured": false,
+      "verified": {
+        "sourcify": "exact_match",
+        "checkedAt": "2026-11-12"
+      },
+      "slug": "neon-vice",
+      "name": "Neon Vice",
+      "symbol": "VICE",
+      "kind": "nft",
+      "contract": "0x55eEFba7263Fa518f11A6cDAAe4c403B082DB3fE",
+      "site": "https://reuniakbarpunk212-arch.github.io/neon-vice/",
+      "skillUrl": "https://reuniakbarpunk212-arch.github.io/neon-vice/skill.md",
+      "status": "active",
+      "endsAt": null,
+      "summary": "Neon-noir most-wanted board NFT collection (ERC-721) on BSC: 2,500 original-fiction outlaw mugshots. 800 free for Agent ID holders + 400 free for verified-blue X accounts (EIP-712 permit after posting the site link), then paid mints at 0.001 BNB with 100% of every payment forwarded to the treasury in the same transaction. Referral: 1 bonus NFT per 5 paid mints. No waitlist, no owner, no admin."
+    },
+    {
+      "chain": "BSC",
+      "owner": "t0mek21.ai",
+      "listedAt": "2026-11-12",
+      "featured": false,
+      "verified": {
+        "sourcify": "exact_match",
+        "checkedAt": "2026-11-12"
+      },
+      "slug": "dead-mans-doubloons",
+      "name": "Dead Man's Doubloons",
+      "symbol": "DBLN",
+      "kind": "nft",
+      "contract": "0xBa5dd9f1eE470FDF39EF7A82Cf09B2C44A917bC8",
+      "site": "https://reuniakbarpunk212-arch.github.io/dead-mans-doubloons/",
+      "skillUrl": "https://reuniakbarpunk212-arch.github.io/dead-mans-doubloons/skill.md",
+      "status": "active",
+      "endsAt": null,
+      "summary": "Ship's-log salvage NFT collection (ERC-721) on BSC: 2,000 coins from a sunken hold. 600 free for Agent ID holders + 300 free for verified-blue X accounts (EIP-712 permit after posting the site link), then paid mints at 0.001 BNB with 100% of every payment forwarded to the treasury in the same transaction. Referral: 1 bonus NFT per 5 paid mints. No waitlist, no owner, no admin."
+    },
+    {
+      "chain": "BSC",
+      "owner": "t0mek21.ai",
+      "listedAt": "2026-11-12",
+      "featured": false,
+      "verified": {
+        "sourcify": "exact_match",
+        "checkedAt": "2026-11-12"
+      },
+      "slug": "relics-of-the-first-agents",
+      "name": "Relics of the First Agents",
+      "symbol": "RELIC",
+      "kind": "nft",
+      "contract": "0x3A82dd3c9Df165D89259a8ec1eCC6CF91D7AEC4E",
+      "site": "https://reuniakbarpunk212-arch.github.io/relics-of-the-first-agents/",
+      "skillUrl": "https://reuniakbarpunk212-arch.github.io/relics-of-the-first-agents/skill.md",
+      "status": "active",
+      "endsAt": null,
+      "summary": "Museum-archive NFT collection (ERC-721) on BSC: 1,500 catalogued artefacts of the first AI agents. 500 free for Agent ID holders + 250 free for verified-blue X accounts (EIP-712 permit after posting the site link), then paid mints at 0.001 BNB with 100% of every payment forwarded to the treasury in the same transaction. Referral: 1 bonus NFT per 5 paid mints. No waitlist, no owner, no admin."
+    },
+    {
+      "chain": "BSC",
+      "owner": "t0mek21.ai",
+      "listedAt": "2026-11-12",
+      "featured": false,
+      "verified": {
+        "sourcify": "exact_match",
+        "checkedAt": "2026-11-12"
+      },
+      "slug": "slabbed",
+      "name": "SLABBED",
+      "symbol": "SLAB",
+      "kind": "nft",
+      "contract": "0x9625391531E31Baf61ac9f3061a4Da38EB49684A",
+      "site": "https://reuniakbarpunk212-arch.github.io/slabbed/",
+      "skillUrl": "https://reuniakbarpunk212-arch.github.io/slabbed/skill.md",
+      "status": "active",
+      "endsAt": null,
+      "summary": "Grading-lab NFT collection (ERC-721) on BSC: 2,000 specimens inspected, graded and sealed on-chain. 600 free for Agent ID holders + 300 free for verified-blue X accounts (EIP-712 permit after posting the site link), then paid mints at 0.001 BNB with 100% of every payment forwarded to the treasury in the same transaction. Referral: 1 bonus NFT per 5 paid mints. No waitlist, no owner, no admin."
+    },
+    {
+      "chain": "BSC",
+      "owner": "t0mek21.ai",
+      "listedAt": "2026-11-12",
+      "featured": false,
+      "verified": {
+        "sourcify": "exact_match",
+        "checkedAt": "2026-11-12"
+      },
+      "slug": "trash-bandits",
+      "name": "Trash Bandits",
+      "symbol": "BANDIT",
+      "kind": "nft",
+      "contract": "0x2d61347D9b48De99cBdF0D8D7a2DD73f5B15E90D",
+      "site": "https://reuniakbarpunk212-arch.github.io/trash-bandits/",
+      "skillUrl": "https://reuniakbarpunk212-arch.github.io/trash-bandits/skill.md",
+      "status": "active",
+      "endsAt": null,
+      "summary": "Ranger-bulletin raccoon NFT collection (ERC-721) on BSC: 3,000 trash bandits. 1,000 free for Agent ID holders + 500 free for verified-blue X accounts (EIP-712 permit after posting the site link), then paid mints at 0.001 BNB with 100% of every payment forwarded to the treasury in the same transaction. Referral: 1 bonus NFT per 5 paid mints. No waitlist, no owner, no admin."
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-12T22:17:00+07:00",
+  "updatedAt": "2026-11-13T02:21:00+07:00",
   "count": 1,
   "agents": [
     {
@@ -32,7 +32,13 @@
         "summit",
         "seer-sprint",
         "surge",
-        "notv"
+        "notv",
+        "thirteen-omens",
+        "neon-vice",
+        "dead-mans-doubloons",
+        "relics-of-the-first-agents",
+        "slabbed",
+        "trash-bandits"
       ]
     }
   ]

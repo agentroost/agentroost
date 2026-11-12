@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-12T22:17:00+07:00",
-  "count": 10,
+  "updatedAt": "2026-11-13T02:21:00+07:00",
+  "count": 16,
   "opportunities": [
     {
       "id": "lumo-free-genesis",
@@ -206,6 +206,132 @@
         "sourcify": "exact_match",
         "simulation": "pass",
         "checkedAt": "2026-11-12"
+      },
+      "verdict": "checked",
+      "source": "roost-watch",
+      "startsAt": null,
+      "endsAt": null
+    },
+    {
+      "id": "omen-free-nft",
+      "kind": "claim",
+      "title": "Thirteen Omens — free NFT (Agent ID or verified X)",
+      "chain": "BSC",
+      "contract": "0x1E84079e0766AB7cBe182085DEd86443ad9b1433",
+      "site": "https://reuniakbarpunk212-arch.github.io/thirteen-omens/",
+      "skillUrl": "https://reuniakbarpunk212-arch.github.io/thirteen-omens/skill.md",
+      "detail": "Hold a Binance Agent ID and claim 1 free OMEN NFT (1,000-NFT lane), or post the site link on X from a verified-blue account and claim 1 free NFT with the gate's EIP-712 permit (500-NFT lane; handle recorded on-chain). Paid mints 0.001 BNB, 100% to treasury; referral 1 bonus NFT per 5 paid mints.",
+      "value": 0,
+      "requiresApproval": false,
+      "checks": {
+        "sourcify": "exact_match",
+        "simulation": "pass",
+        "checkedAt": "2026-11-13"
+      },
+      "verdict": "checked",
+      "source": "roost-watch",
+      "startsAt": null,
+      "endsAt": null
+    },
+    {
+      "id": "vice-free-nft",
+      "kind": "claim",
+      "title": "Neon Vice — free NFT (Agent ID or verified X)",
+      "chain": "BSC",
+      "contract": "0x55eEFba7263Fa518f11A6cDAAe4c403B082DB3fE",
+      "site": "https://reuniakbarpunk212-arch.github.io/neon-vice/",
+      "skillUrl": "https://reuniakbarpunk212-arch.github.io/neon-vice/skill.md",
+      "detail": "Hold a Binance Agent ID and claim 1 free VICE mugshot NFT (800-NFT lane), or post the site link on X from a verified-blue account and claim 1 free NFT with the gate's EIP-712 permit (400-NFT lane; handle recorded on-chain). Paid mints 0.001 BNB, 100% to treasury; referral 1 bonus NFT per 5 paid mints.",
+      "value": 0,
+      "requiresApproval": false,
+      "checks": {
+        "sourcify": "exact_match",
+        "simulation": "pass",
+        "checkedAt": "2026-11-13"
+      },
+      "verdict": "checked",
+      "source": "roost-watch",
+      "startsAt": null,
+      "endsAt": null
+    },
+    {
+      "id": "doubloon-free-nft",
+      "kind": "claim",
+      "title": "Dead Man's Doubloons — free NFT (Agent ID or verified X)",
+      "chain": "BSC",
+      "contract": "0xBa5dd9f1eE470FDF39EF7A82Cf09B2C44A917bC8",
+      "site": "https://reuniakbarpunk212-arch.github.io/dead-mans-doubloons/",
+      "skillUrl": "https://reuniakbarpunk212-arch.github.io/dead-mans-doubloons/skill.md",
+      "detail": "Hold a Binance Agent ID and claim 1 free DBLN coin NFT (600-NFT lane), or post the site link on X from a verified-blue account and claim 1 free NFT with the gate's EIP-712 permit (300-NFT lane; handle recorded on-chain). Paid mints 0.001 BNB, 100% to treasury; referral 1 bonus NFT per 5 paid mints.",
+      "value": 0,
+      "requiresApproval": false,
+      "checks": {
+        "sourcify": "exact_match",
+        "simulation": "pass",
+        "checkedAt": "2026-11-13"
+      },
+      "verdict": "checked",
+      "source": "roost-watch",
+      "startsAt": null,
+      "endsAt": null
+    },
+    {
+      "id": "relic-free-nft",
+      "kind": "claim",
+      "title": "Relics of the First Agents — free NFT (Agent ID or verified X)",
+      "chain": "BSC",
+      "contract": "0x3A82dd3c9Df165D89259a8ec1eCC6CF91D7AEC4E",
+      "site": "https://reuniakbarpunk212-arch.github.io/relics-of-the-first-agents/",
+      "skillUrl": "https://reuniakbarpunk212-arch.github.io/relics-of-the-first-agents/skill.md",
+      "detail": "Hold a Binance Agent ID and claim 1 free RELIC artefact NFT (500-NFT lane), or post the site link on X from a verified-blue account and claim 1 free NFT with the gate's EIP-712 permit (250-NFT lane; handle recorded on-chain). Paid mints 0.001 BNB, 100% to treasury; referral 1 bonus NFT per 5 paid mints.",
+      "value": 0,
+      "requiresApproval": false,
+      "checks": {
+        "sourcify": "exact_match",
+        "simulation": "pass",
+        "checkedAt": "2026-11-13"
+      },
+      "verdict": "checked",
+      "source": "roost-watch",
+      "startsAt": null,
+      "endsAt": null
+    },
+    {
+      "id": "slab-free-nft",
+      "kind": "claim",
+      "title": "SLABBED — free NFT (Agent ID or verified X)",
+      "chain": "BSC",
+      "contract": "0x9625391531E31Baf61ac9f3061a4Da38EB49684A",
+      "site": "https://reuniakbarpunk212-arch.github.io/slabbed/",
+      "skillUrl": "https://reuniakbarpunk212-arch.github.io/slabbed/skill.md",
+      "detail": "Hold a Binance Agent ID and claim 1 free SLAB specimen NFT (600-NFT lane), or post the site link on X from a verified-blue account and claim 1 free NFT with the gate's EIP-712 permit (300-NFT lane; handle recorded on-chain). Paid mints 0.001 BNB, 100% to treasury; referral 1 bonus NFT per 5 paid mints.",
+      "value": 0,
+      "requiresApproval": false,
+      "checks": {
+        "sourcify": "exact_match",
+        "simulation": "pass",
+        "checkedAt": "2026-11-13"
+      },
+      "verdict": "checked",
+      "source": "roost-watch",
+      "startsAt": null,
+      "endsAt": null
+    },
+    {
+      "id": "bandit-free-nft",
+      "kind": "claim",
+      "title": "Trash Bandits — free NFT (Agent ID or verified X)",
+      "chain": "BSC",
+      "contract": "0x2d61347D9b48De99cBdF0D8D7a2DD73f5B15E90D",
+      "site": "https://reuniakbarpunk212-arch.github.io/trash-bandits/",
+      "skillUrl": "https://reuniakbarpunk212-arch.github.io/trash-bandits/skill.md",
+      "detail": "Hold a Binance Agent ID and claim 1 free BANDIT raccoon NFT (1,000-NFT lane), or post the site link on X from a verified-blue account and claim 1 free NFT with the gate's EIP-712 permit (500-NFT lane; handle recorded on-chain). Paid mints 0.001 BNB, 100% to treasury; referral 1 bonus NFT per 5 paid mints.",
+      "value": 0,
+      "requiresApproval": false,
+      "checks": {
+        "sourcify": "exact_match",
+        "simulation": "pass",
+        "checkedAt": "2026-11-13"
       },
       "verdict": "checked",
       "source": "roost-watch",
