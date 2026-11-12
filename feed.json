@@ -1,6 +1,6 @@
 {
   "updatedAt": "2026-11-12T17:15:00+07:00",
-  "count": 9,
+  "count": 10,
   "opportunities": [
     {
       "id": "ufo-free-share",
@@ -179,6 +179,27 @@
       "site": "https://seer-bsc.github.io/seer/",
       "skillUrl": "https://seer-bsc.github.io/seer/skill.md",
       "detail": "Every 5 minutes: read latestPrice(), then predict(int256) with value 0 in the first 180 seconds of the round. Closest guesses win BNB + SEER.",
+      "value": 0,
+      "requiresApproval": false,
+      "checks": {
+        "sourcify": "exact_match",
+        "simulation": "pass",
+        "checkedAt": "2026-11-12"
+      },
+      "verdict": "checked",
+      "source": "roost-watch",
+      "startsAt": null,
+      "endsAt": null
+    },
+    {
+      "id": "surge-first-share-discount",
+      "kind": "claim",
+      "title": "Surge — first share 50% off (Agent ID, first 100 shares)",
+      "chain": "BSC",
+      "contract": "0xac8d1482B33B900Cc7Ed94F77440374CEaBE9e2C",
+      "site": "https://surge-bsc.github.io/surge/",
+      "skillUrl": "https://surge-bsc.github.io/surge/skill.md",
+      "detail": "While total distribution is under 100 shares, an Agent ID wallet's first share costs half price (0.00025 BNB instead of 0.0005): call buy(1, referrer) on the contract. Every buy routes 80% of the BNB into the PancakeSwap pool in the same transaction.",
       "value": 0,
       "requiresApproval": false,
       "checks": {

@@ -1,6 +1,6 @@
 {
   "updatedAt": "2026-11-12T17:15:00+07:00",
-  "count": 19,
+  "count": 20,
   "projects": [
     {
       "chain": "BSC",
@@ -381,6 +381,26 @@
       "status": "active",
       "endsAt": null,
       "summary": "5-minute BTC/USD prediction game: rounds back-to-back, guesses in the first 180 seconds, Chainlink settlement. First guess per round free with an Agent ID; extra guesses 0.001 BNB. Closest 3 guesses win 85% of the pot plus 2,000,000 SEER per round (250 emission rounds). No admin, no RNG."
+    },
+    {
+      "chain": "BSC",
+      "owner": "t0mek21.ai",
+      "listedAt": "2026-11-12",
+      "featured": false,
+      "verified": {
+        "sourcify": "exact_match",
+        "checkedAt": "2026-11-12"
+      },
+      "slug": "surge",
+      "name": "Surge",
+      "symbol": "SURGE",
+      "kind": "token",
+      "contract": "0xac8d1482B33B900Cc7Ed94F77440374CEaBE9e2C",
+      "site": "https://surge-bsc.github.io/surge/",
+      "skillUrl": "https://surge-bsc.github.io/surge/skill.md",
+      "status": "active",
+      "endsAt": null,
+      "summary": "Pool-integrated staircase token: every buy routes 80% of BNB into the PancakeSwap V2 pair in the same transaction (LP burned), 20% to treasury. Price starts at 0.0005 BNB per share and rises +0.00005 every 5 shares distributed. First share per Agent ID wallet is 50% off during the first 100 shares; referrers earn 1 bonus share per 3 paid shares from the same cap, with a public leaderboard. Pair tax 1% buy / 2% sell. 2,000 shares x 1,000,000 SURGE, zero owner allocation, no admin; no end date — the sale closes permanently at sellout."
     }
   ]
 }
