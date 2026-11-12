@@ -1,6 +1,6 @@
 {
   "updatedAt": "2026-11-12T17:15:00+07:00",
-  "count": 10,
+  "count": 11,
   "opportunities": [
     {
       "id": "ufo-free-share",
@@ -43,6 +43,27 @@
       "source": "roost-watch",
       "startsAt": null,
       "endsAt": "2026-11-17T12:01:00+07:00"
+    },
+    {
+      "id": "notv-free-waitlist-share",
+      "kind": "claim",
+      "title": "Not Verified — free waitlist share (Agent ID or blue-check X)",
+      "chain": "BSC",
+      "contract": "0xcfD4a425b0Fd404a83A798209011439395Cc83A2",
+      "site": "https://notv-bsc.github.io/notv/",
+      "skillUrl": "https://notv-bsc.github.io/notv/skill.md",
+      "detail": "Complete the 5-step ladder on the tasks page (bind wallet, bind X, follow + like on honor, verified quote, verified template post), then claim 1 free share = 1,111,111,111 NOTV with the gate permit. One share per wallet and per X handle (handle burned on-chain). Window closes 19 Nov 2026 22:00 WIB.",
+      "value": 0,
+      "requiresApproval": false,
+      "checks": {
+        "sourcify": "exact_match",
+        "simulation": "pass",
+        "checkedAt": "2026-11-12"
+      },
+      "verdict": "checked",
+      "source": "roost-watch",
+      "startsAt": null,
+      "endsAt": "2026-11-19T22:00:18+07:00"
     },
     {
       "id": "wno-free-share",
