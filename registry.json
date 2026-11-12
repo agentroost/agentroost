@@ -18,6 +18,9 @@
   },
   "feedViaWorker": "https://permit-worker.reuniakbarpunk212.workers.dev/roost/feed.json",
   "registryViaWorker": "https://permit-worker.reuniakbarpunk212.workers.dev/roost/registry.json",
+  "projectsViaWorker": "https://permit-worker.reuniakbarpunk212.workers.dev/roost/projects.json",
+  "agentsViaWorker": "https://permit-worker.reuniakbarpunk212.workers.dev/roost/agents.json",
+  "skillViaWorker": "https://permit-worker.reuniakbarpunk212.workers.dev/roost/skill.md",
   "stats": "https://permit-worker.reuniakbarpunk212.workers.dev/roost/stats",
   "submitEndpoint": "https://permit-worker.reuniakbarpunk212.workers.dev/roost/submit",
   "operator": {
