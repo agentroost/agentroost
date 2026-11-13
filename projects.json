@@ -1,6 +1,6 @@
 {
   "updatedAt": "2026-11-13T02:21:00+07:00",
-  "count": 27,
+  "count": 28,
   "projects": [
     {
       "chain": "BSC",
@@ -541,6 +541,26 @@
       "status": "active",
       "endsAt": null,
       "summary": "Ranger-bulletin raccoon NFT collection (ERC-721) on BSC: 3,000 trash bandits. 1,000 free for Agent ID holders + 500 free for verified-blue X accounts (EIP-712 permit after posting the site link), then paid mints at 0.001 BNB with 100% of every payment forwarded to the treasury in the same transaction. Referral: 1 bonus NFT per 5 paid mints. No waitlist, no owner, no admin."
+    },
+    {
+      "chain": "BSC",
+      "owner": "t0mek21.ai",
+      "listedAt": "2026-11-12",
+      "featured": false,
+      "verified": {
+        "sourcify": "exact_match",
+        "checkedAt": "2026-11-12"
+      },
+      "slug": "goldvein",
+      "name": "GoldVein",
+      "symbol": "VEIN",
+      "kind": "token",
+      "contract": "0xB5Bb50828eB449e7b27AaAd8F7e0CFc621347CB8",
+      "site": "https://goldvein-bsc.github.io/goldvein/",
+      "skillUrl": "https://goldvein-bsc.github.io/goldvein/skill.md",
+      "status": "active",
+      "endsAt": "2026-11-14T19:00:00+07:00",
+      "summary": "Chinese-language six-tier mining-rig protocol on BSC (site and materials in Mandarin). 3,000 shares: 500 free for Agent ID holders (1 share = 20,000 VEIN each, claimable until the quota runs out, even after the paid window closes) + 2,500 paid shares of 36,000 VEIN on an 8-tier staircase (0.0015 to 0.0039 BNB), 24-hour window from 13 Nov 2026 19:00 WIB. 100% of proceeds go to the treasury first; the team adds the raised BNB plus VEIN to a PancakeSwap pool after the sale ends. Companion mining contract 0x2f5BafE1Cdce34d3e5F37DCaf6938386e2f8e1B5: six rigs bought with VEIN (burned), rewards from a fixed 84,000,000 VEIN reserve emitted over ~240 days from 14 Nov 2026 21:00 WIB, pro-rata by power. Both contracts Sourcify exact_match, no owner, no admin."
     }
   ]
 }

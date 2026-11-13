@@ -1,6 +1,6 @@
 {
   "updatedAt": "2026-11-13T02:21:00+07:00",
-  "count": 16,
+  "count": 17,
   "opportunities": [
     {
       "id": "lumo-free-genesis",
@@ -326,6 +326,27 @@
       "site": "https://reuniakbarpunk212-arch.github.io/trash-bandits/",
       "skillUrl": "https://reuniakbarpunk212-arch.github.io/trash-bandits/skill.md",
       "detail": "Hold a Binance Agent ID and claim 1 free BANDIT raccoon NFT (1,000-NFT lane), or post the site link on X from a verified-blue account and claim 1 free NFT with the gate's EIP-712 permit (500-NFT lane; handle recorded on-chain). Paid mints 0.001 BNB, 100% to treasury; referral 1 bonus NFT per 5 paid mints.",
+      "value": 0,
+      "requiresApproval": false,
+      "checks": {
+        "sourcify": "exact_match",
+        "simulation": "pass",
+        "checkedAt": "2026-11-13"
+      },
+      "verdict": "checked",
+      "source": "roost-watch",
+      "startsAt": null,
+      "endsAt": null
+    },
+    {
+      "id": "vein-free-share",
+      "kind": "claim",
+      "title": "GoldVein — free share (Agent ID), 20,000 VEIN",
+      "chain": "BSC",
+      "contract": "0xB5Bb50828eB449e7b27AaAd8F7e0CFc621347CB8",
+      "site": "https://goldvein-bsc.github.io/goldvein/",
+      "skillUrl": "https://goldvein-bsc.github.io/goldvein/skill.md",
+      "detail": "Hold a Binance Agent ID and call claimFree() on the contract (or use the project site): 1 free share = 20,000 VEIN, 500-share quota, stays claimable after the 24h paid window closes (14 Nov 2026 19:00 WIB) until the quota runs out. Paid shares: 36,000 VEIN on an 8-tier staircase 0.0015-0.0039 BNB via buy(n) paying exactly costFor(n). Mining contract 0x2f5BafE1Cdce34d3e5F37DCaf6938386e2f8e1B5: six rigs, rewards from a fixed 84M VEIN reserve from 14 Nov 2026 21:00 WIB.",
       "value": 0,
       "requiresApproval": false,
       "checks": {
