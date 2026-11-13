@@ -1,6 +1,6 @@
 {
   "updatedAt": "2026-11-13T02:21:00+07:00",
-  "count": 17,
+  "count": 18,
   "opportunities": [
     {
       "id": "lumo-free-genesis",
@@ -358,6 +358,27 @@
       "source": "roost-watch",
       "startsAt": null,
       "endsAt": null
+    },
+    {
+      "id": "fero-free-box",
+      "kind": "claim",
+      "title": "Ferrous Relics — free sealed relic box (Agent ID or X, verified post)",
+      "chain": "BSC",
+      "contract": "0x76FB0A89c8618A1d7Cf3E2123ae43E5aeb36f2F4",
+      "site": "https://ferrous-relics.github.io/ferrous-relics/",
+      "skillUrl": "https://ferrous-relics.github.io/ferrous-relics/skill.md",
+      "detail": "Post the site link on X, then request a permit on the project site — the gate verifies the post before it signs — and claim 1 free sealed FERO mystery box. Two permit-gated lanes: 333 boxes for Binance Agent ID holders and 200 boxes for X accounts; one post per lane claim, and one wallet may claim from both lanes (max 2 free per wallet). Paid boxes: 2,800 at 0.001 BNB in the same window, 100% to treasury. Every box stays sealed until the simultaneous reveal after the window closes 16 Nov 2026 23:00 WIB; sealed boxes can already trade on the built-in market (2.5% fee to treasury).",
+      "value": 0,
+      "requiresApproval": false,
+      "checks": {
+        "sourcify": "exact_match",
+        "simulation": "pass",
+        "checkedAt": "2026-11-13"
+      },
+      "verdict": "checked",
+      "source": "roost-watch",
+      "startsAt": null,
+      "endsAt": "2026-11-16T23:00:00+07:00"
     }
   ]
 }
