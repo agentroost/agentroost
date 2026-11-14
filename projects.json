@@ -1,6 +1,6 @@
 {
   "updatedAt": "2026-11-15T00:24:00+07:00",
-  "count": 41,
+  "count": 42,
   "projects": [
     {
       "chain": "BSC",
@@ -821,6 +821,26 @@
       "status": "active",
       "endsAt": "2026-11-22T16:00:00+07:00",
       "summary": "Medieval knight NFT collection (ERC-721) on BSC: 2,500 knight helmets and heraldic shields — Great Helm, Bascinet, Sallet, Dragon Helm and the named Kingsguard, Night Watch, Solar Court and Thorn Crown sets — in polished steel and enamel, sealed inside an oak war chest with a crimson wax seal. The free claim runs backwards: post the template on X first (site link + wallet code), the gate verifies the post and issues an EIP-712 permit, then claim 1 free crest — one post = one claim, one X handle = one claim, enforced on-chain. Paid mints are 0.001 BNB each, no post required, no per-wallet cap, and 100% of mint proceeds go to the treasury. Every minted NFT arrives as a sealed chest until the seven-day window closes on 22 Nov 2026 at 16:00 WIB, then all chests open together; the trait assignment for all 2,500 was committed up front by provenance SHA-256 7819284f3ac76f3e482e9e1017a19b84932c9ef76ada1db2451df52260450aed, and supply never minted is never created. Built-in non-custodial market 0xD09E0395cF3E0bE554c5339623319d268b2A5573 (2.5% fee to treasury); sealed chests can trade before reveal, and the collection carries an ERC-2981 external royalty of 2.5%. Both contracts Sourcify exact_match, no owner, no admin."
+    },
+    {
+      "chain": "BSC",
+      "owner": "t0mek21.ai",
+      "listedAt": "2026-11-12",
+      "featured": false,
+      "verified": {
+        "sourcify": "exact_match",
+        "checkedAt": "2026-11-12"
+      },
+      "slug": "outlaw",
+      "name": "OUTLAW",
+      "symbol": "OUTL",
+      "kind": "nft",
+      "contract": "0x40A1bB875cE24eE2b7D0647DD86Af0DEa7bA68df",
+      "site": "https://outlaw-bsc.github.io/outlaw/",
+      "skillUrl": "https://outlaw-bsc.github.io/outlaw/skill.md",
+      "status": "active",
+      "endsAt": "2026-11-22T18:00:00+07:00",
+      "summary": "Wild West relic NFT collection (ERC-721) on BSC: 2,000 storied frontier relics — engraved Peacemaker revolvers, sheriff badges, bandit masks, the Golden Peacemaker and the Ghost Rider's Mask — in brass, steel and worn leather, sealed inside a leather-and-brass strongbox. The free claim runs backwards: post the template on X first (site link + wallet code), the gate verifies the post and issues an EIP-712 permit, then claim 1 free relic — one post = one claim, one X handle = one claim, enforced on-chain. Paid mints are 0.001 BNB each, no post required, no per-wallet cap, and 100% of mint proceeds go to the treasury. Every minted NFT arrives as a sealed strongbox until the seven-day window closes on 22 Nov 2026 at 18:00 WIB, then all strongboxes open together; the trait assignment for all 2,000 was committed up front by provenance SHA-256 c8f5394a42d57de00d4e75a0c57dce23836962d6502523693c34ed82979ba0ed, and supply never minted is never created. Built-in non-custodial market 0x81749cf8B3CeFBE151d216f2314A74fB1D4CB09B (2.5% fee to treasury); sealed strongboxes can trade before reveal, and the collection carries an ERC-2981 external royalty of 2.5%. Both contracts Sourcify exact_match, no owner, no admin."
     }
   ]
 }

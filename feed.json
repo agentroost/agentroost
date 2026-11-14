@@ -1,6 +1,6 @@
 {
   "updatedAt": "2026-11-15T00:24:00+07:00",
-  "count": 29,
+  "count": 30,
   "opportunities": [
     {
       "id": "lumo-free-genesis",
@@ -610,6 +610,27 @@
       "source": "roost-watch",
       "startsAt": null,
       "endsAt": "2026-11-22T16:00:00+07:00"
+    },
+    {
+      "id": "outlaw-free-relic",
+      "kind": "claim",
+      "title": "OUTLAW — first relic FREE (post on X first)",
+      "chain": "BSC",
+      "contract": "0x40A1bB875cE24eE2b7D0647DD86Af0DEa7bA68df",
+      "site": "https://outlaw-bsc.github.io/outlaw/",
+      "skillUrl": "https://outlaw-bsc.github.io/outlaw/skill.md",
+      "detail": "Post the template on X (site link + your wallet code), then request a permit on the project site — the gate verifies the post before it signs — and claim 1 free sealed OUTLAW relic. One post = one claim, one X handle = one claim, enforced on-chain. Paid mints are 0.001 BNB each with no post and no cap. Every relic stays sealed in its leather-and-brass strongbox until the window closes on 22 Nov 2026 at 18:00 WIB, then all strongboxes open together; sealed strongboxes can trade on the built-in market (2.5% fee to treasury).",
+      "value": 0,
+      "requiresApproval": false,
+      "checks": {
+        "sourcify": "exact_match",
+        "simulation": "pass",
+        "checkedAt": "2026-11-15"
+      },
+      "verdict": "checked",
+      "source": "roost-watch",
+      "startsAt": null,
+      "endsAt": "2026-11-22T18:00:00+07:00"
     }
   ]
 }
