@@ -1,6 +1,6 @@
 {
   "updatedAt": "2026-11-14T20:19:00+07:00",
-  "count": 24,
+  "count": 25,
   "opportunities": [
     {
       "id": "lumo-free-genesis",
@@ -505,6 +505,27 @@
       "source": "roost-watch",
       "startsAt": null,
       "endsAt": "2026-11-21T20:30:00+07:00"
+    },
+    {
+      "id": "prmd-free-ape",
+      "kind": "claim",
+      "title": "Primate Syndicate — first ape FREE (post on X first)",
+      "chain": "BSC",
+      "contract": "0x622E2D50f00E30970c71c7D73b8a4932e86987a8",
+      "site": "https://primate-syndicate.github.io/primate-syndicate/",
+      "skillUrl": "https://primate-syndicate.github.io/primate-syndicate/skill.md",
+      "detail": "Post the template on X (site link + your wallet code), then request a permit on the project site — the gate verifies the post before it signs — and claim 1 free sealed PRMD ape. One post = one claim, one X handle = one claim, enforced on-chain. Paid mints are 0.001 BNB each with no post and no cap. Every ape stays sealed in its vault crate until the window closes on 21 Nov 2026 at 23:30 WIB, then all crates open together; sealed crates can trade on the built-in market (2.5% fee to treasury). Site is bilingual English + Chinese.",
+      "value": 0,
+      "requiresApproval": false,
+      "checks": {
+        "sourcify": "exact_match",
+        "simulation": "pass",
+        "checkedAt": "2026-11-14"
+      },
+      "verdict": "checked",
+      "source": "roost-watch",
+      "startsAt": null,
+      "endsAt": "2026-11-21T23:30:00+07:00"
     }
   ]
 }
