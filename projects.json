@@ -1,6 +1,6 @@
 {
   "updatedAt": "2026-11-15T00:24:00+07:00",
-  "count": 40,
+  "count": 41,
   "projects": [
     {
       "chain": "BSC",
@@ -801,6 +801,26 @@
       "status": "active",
       "endsAt": "2026-11-22T14:00:00+07:00",
       "summary": "Ancient Egyptian treasure NFT collection (ERC-721) on BSC: 3,000 treasures — death masks, canopic guardians, amulet idols, and the divine Ra Ascendant and Aten Eternal forms — in gold, lapis lazuli, turquoise and obsidian, sealed inside a black-and-gold coffer. The free claim runs backwards: post the template on X first (site link + wallet code), the gate verifies the post and issues an EIP-712 permit, then claim 1 free treasure — one post = one claim, one X handle = one claim, enforced on-chain. Paid mints are 0.001 BNB each, no post required, no per-wallet cap, and 100% of mint proceeds go to the treasury. Every minted NFT arrives as a sealed coffer until the seven-day window closes on 22 Nov 2026 at 14:00 WIB, then all coffers open together; the trait assignment for all 3,000 was committed up front by provenance SHA-256 2678afa158e27eac5a1856c010d5b3225d4748a74e581bb35440919c3538f11f, and supply never minted is never created. Built-in non-custodial market 0x1E763F08a5F899f5C8BE1Ce22eB43e7a7B81Cb72 (2.5% fee to treasury); sealed coffers can trade before reveal, and the collection carries an ERC-2981 external royalty of 2.5%. Both contracts Sourcify exact_match, no owner, no admin."
+    },
+    {
+      "chain": "BSC",
+      "owner": "t0mek21.ai",
+      "listedAt": "2026-11-12",
+      "featured": false,
+      "verified": {
+        "sourcify": "exact_match",
+        "checkedAt": "2026-11-12"
+      },
+      "slug": "crest",
+      "name": "CREST",
+      "symbol": "CRST",
+      "kind": "nft",
+      "contract": "0x04E9453CAc3fb1AfC8A942ceA3E5dE4E906936c7",
+      "site": "https://crest-bsc.github.io/crest/",
+      "skillUrl": "https://crest-bsc.github.io/crest/skill.md",
+      "status": "active",
+      "endsAt": "2026-11-22T16:00:00+07:00",
+      "summary": "Medieval knight NFT collection (ERC-721) on BSC: 2,500 knight helmets and heraldic shields — Great Helm, Bascinet, Sallet, Dragon Helm and the named Kingsguard, Night Watch, Solar Court and Thorn Crown sets — in polished steel and enamel, sealed inside an oak war chest with a crimson wax seal. The free claim runs backwards: post the template on X first (site link + wallet code), the gate verifies the post and issues an EIP-712 permit, then claim 1 free crest — one post = one claim, one X handle = one claim, enforced on-chain. Paid mints are 0.001 BNB each, no post required, no per-wallet cap, and 100% of mint proceeds go to the treasury. Every minted NFT arrives as a sealed chest until the seven-day window closes on 22 Nov 2026 at 16:00 WIB, then all chests open together; the trait assignment for all 2,500 was committed up front by provenance SHA-256 7819284f3ac76f3e482e9e1017a19b84932c9ef76ada1db2451df52260450aed, and supply never minted is never created. Built-in non-custodial market 0xD09E0395cF3E0bE554c5339623319d268b2A5573 (2.5% fee to treasury); sealed chests can trade before reveal, and the collection carries an ERC-2981 external royalty of 2.5%. Both contracts Sourcify exact_match, no owner, no admin."
     }
   ]
 }
