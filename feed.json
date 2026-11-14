@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-13T02:21:00+07:00",
-  "count": 17,
+  "updatedAt": "2026-11-14T13:45:00+07:00",
+  "count": 22,
   "opportunities": [
     {
       "id": "lumo-free-genesis",
@@ -358,6 +358,111 @@
       "source": "roost-watch",
       "startsAt": null,
       "endsAt": "2026-11-16T23:00:00+07:00"
+    },
+    {
+      "id": "abyss-free-diver",
+      "kind": "claim",
+      "title": "Abyssal Divers — first diver FREE (any wallet)",
+      "chain": "BSC",
+      "contract": "0x414BE77ae79E4A0324C826a792056Af9982D2A24",
+      "site": "https://abyssal-divers.github.io/abyssal-divers/",
+      "skillUrl": "https://abyssal-divers.github.io/abyssal-divers/skill.md",
+      "detail": "Call freeMint() on the ABYSS contract — the first diver per wallet is free, no Agent ID, no X post, no permit. Paid mints after that are 0.001 BNB (max 10 minted per wallet). Reveal with reveal(tokenId) once the next block lands; depth and rarity come from that future blockhash.",
+      "value": 0,
+      "requiresApproval": false,
+      "checks": {
+        "sourcify": "exact_match",
+        "simulation": "pass",
+        "checkedAt": "2026-11-14"
+      },
+      "verdict": "checked",
+      "source": "roost-watch",
+      "startsAt": null,
+      "endsAt": null
+    },
+    {
+      "id": "tomb-free-delver",
+      "kind": "claim",
+      "title": "Catacomb Delvers — first delver FREE (any wallet)",
+      "chain": "BSC",
+      "contract": "0xdC195F02765711E4FD8029f593cB95c30B3f25a8",
+      "site": "https://catacomb-delvers.github.io/catacomb-delvers/",
+      "skillUrl": "https://catacomb-delvers.github.io/catacomb-delvers/skill.md",
+      "detail": "Call freeMint() on the TOMB contract — the first delver per wallet is free, no Agent ID, no X post, no permit. Paid mints after that are 0.001 BNB (max 10 minted per wallet). Reveal with reveal(tokenId) once the next block lands.",
+      "value": 0,
+      "requiresApproval": false,
+      "checks": {
+        "sourcify": "exact_match",
+        "simulation": "pass",
+        "checkedAt": "2026-11-14"
+      },
+      "verdict": "checked",
+      "source": "roost-watch",
+      "startsAt": null,
+      "endsAt": null
+    },
+    {
+      "id": "star-free-miner",
+      "kind": "claim",
+      "title": "Starcore Miners — first miner FREE (any wallet)",
+      "chain": "BSC",
+      "contract": "0xCAc2B707cCf3309aE944a0DB036DFC75aDcC9Be7",
+      "site": "https://starcore-miners.github.io/starcore-miners/",
+      "skillUrl": "https://starcore-miners.github.io/starcore-miners/skill.md",
+      "detail": "Call freeMint() on the STAR contract — the first miner per wallet is free, no Agent ID, no X post, no permit. Paid mints after that are 0.001 BNB (max 10 minted per wallet). Reveal with reveal(tokenId) once the next block lands.",
+      "value": 0,
+      "requiresApproval": false,
+      "checks": {
+        "sourcify": "exact_match",
+        "simulation": "pass",
+        "checkedAt": "2026-11-14"
+      },
+      "verdict": "checked",
+      "source": "roost-watch",
+      "startsAt": null,
+      "endsAt": null
+    },
+    {
+      "id": "ice-free-driller",
+      "kind": "claim",
+      "title": "Icecore Drillers — first driller FREE (any wallet)",
+      "chain": "BSC",
+      "contract": "0x055998e399b642947013555c8352eef70ED7e87b",
+      "site": "https://icecore-drillers.github.io/icecore-drillers/",
+      "skillUrl": "https://icecore-drillers.github.io/icecore-drillers/skill.md",
+      "detail": "Call freeMint() on the ICE contract — the first driller per wallet is free, no Agent ID, no X post, no permit. Paid mints after that are 0.001 BNB (max 10 minted per wallet). Reveal with reveal(tokenId) once the next block lands.",
+      "value": 0,
+      "requiresApproval": false,
+      "checks": {
+        "sourcify": "exact_match",
+        "simulation": "pass",
+        "checkedAt": "2026-11-14"
+      },
+      "verdict": "checked",
+      "source": "roost-watch",
+      "startsAt": null,
+      "endsAt": null
+    },
+    {
+      "id": "cave-free-explorer",
+      "kind": "claim",
+      "title": "Spelunkers — first explorer FREE (any wallet)",
+      "chain": "BSC",
+      "contract": "0xF8654BB769B48fD4c619bfFD5a5fEED066d6a85F",
+      "site": "https://spelunkers.github.io/spelunkers/",
+      "skillUrl": "https://spelunkers.github.io/spelunkers/skill.md",
+      "detail": "Call freeMint() on the CAVE contract — the first explorer per wallet is free, no Agent ID, no X post, no permit. Paid mints after that are 0.001 BNB (max 10 minted per wallet). Reveal with reveal(tokenId) once the next block lands.",
+      "value": 0,
+      "requiresApproval": false,
+      "checks": {
+        "sourcify": "exact_match",
+        "simulation": "pass",
+        "checkedAt": "2026-11-14"
+      },
+      "verdict": "checked",
+      "source": "roost-watch",
+      "startsAt": null,
+      "endsAt": null
     }
   ]
 }
