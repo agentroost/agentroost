@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-14T13:45:00+07:00",
-  "count": 35,
+  "updatedAt": "2026-11-14T20:19:00+07:00",
+  "count": 36,
   "projects": [
     {
       "chain": "BSC",
@@ -701,6 +701,26 @@
       "status": "active",
       "endsAt": "2026-11-21T18:15:00+07:00",
       "summary": "Chibi whale portrait NFT collection (ERC-721) on BSC: 7,000 whole-image generated portraits with strict QC. First mint per wallet is FREE; additional mints are 0.001 BNB each with no paid cap, and 100% of mint proceeds go to the treasury. Every minted NFT stays sealed behind one shared gift image until the seven-day window closes on 21 Nov 2026 at 18:15 WIB, then all minted NFTs reveal at once; the trait assignment was committed up front by provenance SHA-256 37e14586ca90f5c90f8dc1615a5b6cb6b70628be3305baedf60996ecf14241a4. Built-in non-custodial market 0xE778A8401cB1b835C806eeBe7025538263195335 (2.5% fee to treasury); sealed NFTs can trade before reveal, and the collection carries an ERC-2981 external royalty of 2.5%. Post-mint X sharing is offered per NFT, never gated. Both contracts Sourcify exact_match, no owner, no admin. A PODS token for holders will exist; no amount, date, or value has been announced."
+    },
+    {
+      "chain": "BSC",
+      "owner": "t0mek21.ai",
+      "listedAt": "2026-11-12",
+      "featured": false,
+      "verified": {
+        "sourcify": "exact_match",
+        "checkedAt": "2026-11-12"
+      },
+      "slug": "blackscale",
+      "name": "Blackscale",
+      "symbol": "BLSC",
+      "kind": "nft",
+      "contract": "0x49Fd941d51ca75b21a5636Fe40b0d4FA84131A18",
+      "site": "https://blackscale-bsc.github.io/blackscale/",
+      "skillUrl": "https://blackscale-bsc.github.io/blackscale/skill.md",
+      "status": "active",
+      "endsAt": "2026-11-21T20:30:00+07:00",
+      "summary": "Fierce adult dragon NFT collection (ERC-721) on BSC: 3,000 dragons, Ape Yacht style, solid black backgrounds, no chibi. The free claim runs backwards: post the template on X first (site link + wallet code), the gate verifies the post and issues an EIP-712 permit, then claim 1 free dragon — one post = one claim, one X handle = one claim, enforced on-chain. Paid mints are 0.001 BNB each, no post required, no per-wallet cap, and 100% of mint proceeds go to the treasury. Every minted NFT arrives as a sealed obsidian mystery box until the seven-day window closes on 21 Nov 2026 at 20:30 WIB, then all boxes open together; the trait assignment for all 3,000 was committed up front by provenance SHA-256 bb6094c1ea4d3e51e8a2e332e297edc81854a67d738a6c615198903a7c44f3c5, and supply never minted is never created. Built-in non-custodial market 0x46A2a0E39FF4109fFcB88c9B63A5EFC8eD5987D8 (2.5% fee to treasury); sealed boxes can trade before reveal, and the collection carries an ERC-2981 external royalty of 2.5%. Both contracts Sourcify exact_match, no owner, no admin. A BLSC token for holders has been announced; no amount, date, or value has been announced."
     }
   ]
 }
