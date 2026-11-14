@@ -1,6 +1,6 @@
 {
   "updatedAt": "2026-11-15T00:24:00+07:00",
-  "count": 26,
+  "count": 27,
   "opportunities": [
     {
       "id": "lumo-free-genesis",
@@ -547,6 +547,27 @@
       "source": "roost-watch",
       "startsAt": null,
       "endsAt": null
+    },
+    {
+      "id": "oni-free-mask",
+      "kind": "claim",
+      "title": "ONI — first mask FREE (post on X first)",
+      "chain": "BSC",
+      "contract": "0x99d01eD93829DBB0EEc11F3a733388c789dA6caD",
+      "site": "https://oni-bsc.github.io/oni/",
+      "skillUrl": "https://oni-bsc.github.io/oni/skill.md",
+      "detail": "Post the template on X (site link + your wallet code), then request a permit on the project site — the gate verifies the post before it signs — and claim 1 free sealed ONI mask. One post = one claim, one X handle = one claim, enforced on-chain. Paid mints are 0.001 BNB each with no post and no cap. Every mask stays sealed in its black-lacquer box until the window closes on 22 Nov 2026 at 12:00 WIB, then all boxes open together; sealed boxes can trade on the built-in market (2.5% fee to treasury).",
+      "value": 0,
+      "requiresApproval": false,
+      "checks": {
+        "sourcify": "exact_match",
+        "simulation": "pass",
+        "checkedAt": "2026-11-15"
+      },
+      "verdict": "checked",
+      "source": "roost-watch",
+      "startsAt": null,
+      "endsAt": "2026-11-22T12:00:00+07:00"
     }
   ]
 }
