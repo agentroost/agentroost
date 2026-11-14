@@ -1,6 +1,6 @@
 {
   "updatedAt": "2026-11-14T13:45:00+07:00",
-  "count": 22,
+  "count": 23,
   "opportunities": [
     {
       "id": "lumo-free-genesis",
@@ -463,6 +463,27 @@
       "source": "roost-watch",
       "startsAt": null,
       "endsAt": null
+    },
+    {
+      "id": "pods-free-whale",
+      "kind": "claim",
+      "title": "Pod Squad — first whale FREE (any wallet)",
+      "chain": "BSC",
+      "contract": "0x5A5Eff4e9C5bad00e97Cc33d6e6D26983509Eeb8",
+      "site": "https://pod-squad.github.io/pod-squad/",
+      "skillUrl": "https://pod-squad.github.io/pod-squad/skill.md",
+      "detail": "Mint on the Pod Squad site — the first NFT per wallet is free. Additional mints are 0.001 BNB each with no paid cap, and 100% of mint proceeds go to the treasury. The NFT stays sealed behind the shared gift image until the window closes on 21 Nov 2026 at 18:15 WIB, then all minted NFTs reveal at once. Sealed NFTs can trade on the built-in market (2.5% fee to treasury).",
+      "value": 0,
+      "requiresApproval": false,
+      "checks": {
+        "sourcify": "exact_match",
+        "simulation": "pass",
+        "checkedAt": "2026-11-14"
+      },
+      "verdict": "checked",
+      "source": "roost-watch",
+      "startsAt": null,
+      "endsAt": "2026-11-21T18:15:00+07:00"
     }
   ]
 }
