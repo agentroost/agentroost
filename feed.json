@@ -1,6 +1,6 @@
 {
   "updatedAt": "2026-11-15T00:24:00+07:00",
-  "count": 27,
+  "count": 28,
   "opportunities": [
     {
       "id": "lumo-free-genesis",
@@ -568,6 +568,27 @@
       "source": "roost-watch",
       "startsAt": null,
       "endsAt": "2026-11-22T12:00:00+07:00"
+    },
+    {
+      "id": "pharaoh-free-treasure",
+      "kind": "claim",
+      "title": "PHARAOH — first treasure FREE (post on X first)",
+      "chain": "BSC",
+      "contract": "0xa404e2433bD3B7a00D1c6529B8D56042c0096E98",
+      "site": "https://pharaoh-bsc.github.io/pharaoh/",
+      "skillUrl": "https://pharaoh-bsc.github.io/pharaoh/skill.md",
+      "detail": "Post the template on X (site link + your wallet code), then request a permit on the project site — the gate verifies the post before it signs — and claim 1 free sealed PHARAOH treasure. One post = one claim, one X handle = one claim, enforced on-chain. Paid mints are 0.001 BNB each with no post and no cap. Every treasure stays sealed in its black-and-gold coffer until the window closes on 22 Nov 2026 at 14:00 WIB, then all coffers open together; sealed coffers can trade on the built-in market (2.5% fee to treasury).",
+      "value": 0,
+      "requiresApproval": false,
+      "checks": {
+        "sourcify": "exact_match",
+        "simulation": "pass",
+        "checkedAt": "2026-11-15"
+      },
+      "verdict": "checked",
+      "source": "roost-watch",
+      "startsAt": null,
+      "endsAt": "2026-11-22T14:00:00+07:00"
     }
   ]
 }
