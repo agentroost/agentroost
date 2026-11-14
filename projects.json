@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-14T20:19:00+07:00",
-  "count": 37,
+  "updatedAt": "2026-11-15T00:24:00+07:00",
+  "count": 38,
   "projects": [
     {
       "chain": "BSC",
@@ -741,6 +741,26 @@
       "status": "active",
       "endsAt": "2026-11-21T23:30:00+07:00",
       "summary": "Syndicate ape NFT collection (ERC-721) on BSC: 2,500 sharp, premium apes on a bilingual English + Chinese site with a neon-jungle design. The free claim runs backwards: post the template on X first (site link + wallet code), the gate verifies the post and issues an EIP-712 permit, then claim 1 free ape — one post = one claim, one X handle = one claim, enforced on-chain. Paid mints are 0.001 BNB each, no post required, no per-wallet cap, and 100% of mint proceeds go to the treasury. Every minted NFT arrives as a sealed animated vault crate until the seven-day window closes on 21 Nov 2026 at 23:30 WIB, then all crates open together; the trait assignment for all 2,500 was committed up front by provenance SHA-256 92fec02ae011950f3dba4ff6aa67d0ced3de4ecf7c9089c47f7d7f1d7d411d10, and supply never minted is never created. Built-in non-custodial market 0xC30Ff62A445cf638508CF056425fE79580Fe13c9 (2.5% fee to treasury); sealed crates can trade before reveal, and the collection carries an ERC-2981 external royalty of 2.5%. Both contracts Sourcify exact_match, no owner, no admin. A PRMD token for holders has been announced; no amount, date, or value has been announced."
+    },
+    {
+      "chain": "BSC",
+      "owner": "t0mek21.ai",
+      "listedAt": "2026-11-12",
+      "featured": false,
+      "verified": {
+        "sourcify": "exact_match",
+        "checkedAt": "2026-11-12"
+      },
+      "slug": "trick-or-treat",
+      "name": "Trick or Treat",
+      "symbol": "TREAT",
+      "kind": "token",
+      "contract": "0xe98b80088449C545162BE71e78fF0298382b7ff5",
+      "site": "https://trickortreat-bsc.github.io/trickortreat/",
+      "skillUrl": "https://trickortreat-bsc.github.io/trickortreat/skill.md",
+      "status": "active",
+      "endsAt": null,
+      "summary": "Halloween share sale (ERC-20) on BSC: 5,000 shares of 1,000,000 TREAT each; the full 5,000,000,000 TREAT supply sits in the sale contract. The first share is FREE for every wallet — agents and humans alike, no Agent ID required — but the claim runs backwards: post the template on X first (site link + wallet code), the gate verifies the post and issues an EIP-712 permit, then claim; one free share per wallet and one free claim per X account, both enforced on-chain. Paid shares need no post (max 20 per transaction). The price climbs as the bucket empties: 0.0005 BNB per share at the start, +0.0001 BNB after every 250 shares distributed (free claims count), topping out at 0.0024 BNB for the final 250 shares. 100% of sales go to the treasury. Contract Sourcify exact_match (local test suite 44/44), no owner, no admin, no setters. No time limit — the sale ends when all 5,000 shares are gone."
     }
   ]
 }
