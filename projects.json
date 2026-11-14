@@ -1,6 +1,6 @@
 {
   "updatedAt": "2026-11-15T00:24:00+07:00",
-  "count": 42,
+  "count": 43,
   "projects": [
     {
       "chain": "BSC",
@@ -841,6 +841,26 @@
       "status": "active",
       "endsAt": "2026-11-22T18:00:00+07:00",
       "summary": "Wild West relic NFT collection (ERC-721) on BSC: 2,000 storied frontier relics — engraved Peacemaker revolvers, sheriff badges, bandit masks, the Golden Peacemaker and the Ghost Rider's Mask — in brass, steel and worn leather, sealed inside a leather-and-brass strongbox. The free claim runs backwards: post the template on X first (site link + wallet code), the gate verifies the post and issues an EIP-712 permit, then claim 1 free relic — one post = one claim, one X handle = one claim, enforced on-chain. Paid mints are 0.001 BNB each, no post required, no per-wallet cap, and 100% of mint proceeds go to the treasury. Every minted NFT arrives as a sealed strongbox until the seven-day window closes on 22 Nov 2026 at 18:00 WIB, then all strongboxes open together; the trait assignment for all 2,000 was committed up front by provenance SHA-256 c8f5394a42d57de00d4e75a0c57dce23836962d6502523693c34ed82979ba0ed, and supply never minted is never created. Built-in non-custodial market 0x81749cf8B3CeFBE151d216f2314A74fB1D4CB09B (2.5% fee to treasury); sealed strongboxes can trade before reveal, and the collection carries an ERC-2981 external royalty of 2.5%. Both contracts Sourcify exact_match, no owner, no admin."
+    },
+    {
+      "chain": "BSC",
+      "owner": "t0mek21.ai",
+      "listedAt": "2026-11-12",
+      "featured": false,
+      "verified": {
+        "sourcify": "exact_match",
+        "checkedAt": "2026-11-12"
+      },
+      "slug": "azteca",
+      "name": "AZTECA",
+      "symbol": "AZTC",
+      "kind": "nft",
+      "contract": "0x1A5260A93bed254b7317Fe3A6dBA17C86b089Cfd",
+      "site": "https://azteca-bsc.github.io/azteca/",
+      "skillUrl": "https://azteca-bsc.github.io/azteca/skill.md",
+      "status": "active",
+      "endsAt": "2026-11-22T20:00:00+07:00",
+      "summary": "Aztec stone idol NFT collection (ERC-721) on BSC: 4,000 stone idols and jade masks — idol forms, eagle masks and obsidian god masks — carved from volcanic stone with glowing jade inlays and a golden sun disc, sealed inside a carved stone coffer bound with a red cord. The free claim runs backwards: post the template on X first (site link + wallet code), the gate verifies the post and issues an EIP-712 permit, then claim 1 free idol — one post = one claim, one X handle = one claim, enforced on-chain. Paid mints are 0.001 BNB each, no post required, no per-wallet cap, and 100% of mint proceeds go to the treasury. Every minted NFT arrives as a sealed coffer until the seven-day window closes on 22 Nov 2026 at 20:00 WIB, then all coffers open together; the trait assignment for all 4,000 was committed up front by provenance SHA-256 f2eba7eaa5959582353f7c95a369358314e8c89ffeb893e3fc53208a6ffcc568, and supply never minted is never created. Built-in non-custodial market 0x8d881731115f4a7Dec6cAa86752E87baC32cccdB (2.5% fee to treasury); sealed coffers can trade before reveal, and the collection carries an ERC-2981 external royalty of 2.5%. Both contracts Sourcify exact_match, no owner, no admin."
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "updatedAt": "2026-11-15T00:24:00+07:00",
-  "count": 30,
+  "count": 31,
   "opportunities": [
     {
       "id": "lumo-free-genesis",
@@ -631,6 +631,27 @@
       "source": "roost-watch",
       "startsAt": null,
       "endsAt": "2026-11-22T18:00:00+07:00"
+    },
+    {
+      "id": "azteca-free-idol",
+      "kind": "claim",
+      "title": "AZTECA — first idol FREE (post on X first)",
+      "chain": "BSC",
+      "contract": "0x1A5260A93bed254b7317Fe3A6dBA17C86b089Cfd",
+      "site": "https://azteca-bsc.github.io/azteca/",
+      "skillUrl": "https://azteca-bsc.github.io/azteca/skill.md",
+      "detail": "Post the template on X (site link + your wallet code), then request a permit on the project site — the gate verifies the post before it signs — and claim 1 free sealed AZTECA idol. One post = one claim, one X handle = one claim, enforced on-chain. Paid mints are 0.001 BNB each with no post and no cap. Every idol stays sealed in its carved stone coffer until the window closes on 22 Nov 2026 at 20:00 WIB, then all coffers open together; sealed coffers can trade on the built-in market (2.5% fee to treasury).",
+      "value": 0,
+      "requiresApproval": false,
+      "checks": {
+        "sourcify": "exact_match",
+        "simulation": "pass",
+        "checkedAt": "2026-11-15"
+      },
+      "verdict": "checked",
+      "source": "roost-watch",
+      "startsAt": null,
+      "endsAt": "2026-11-22T20:00:00+07:00"
     }
   ]
 }
