@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-15T00:24:00+07:00",
-  "count": 43,
+  "updatedAt": "2026-11-16T13:00:00+07:00",
+  "count": 44,
   "projects": [
     {
       "chain": "BSC",
@@ -861,6 +861,26 @@
       "status": "active",
       "endsAt": "2026-11-22T20:00:00+07:00",
       "summary": "Aztec stone idol NFT collection (ERC-721) on BSC: 4,000 stone idols and jade masks — idol forms, eagle masks and obsidian god masks — carved from volcanic stone with glowing jade inlays and a golden sun disc, sealed inside a carved stone coffer bound with a red cord. The free claim runs backwards: post the template on X first (site link + wallet code), the gate verifies the post and issues an EIP-712 permit, then claim 1 free idol — one post = one claim, one X handle = one claim, enforced on-chain. Paid mints are 0.001 BNB each, no post required, no per-wallet cap, and 100% of mint proceeds go to the treasury. Every minted NFT arrives as a sealed coffer until the seven-day window closes on 22 Nov 2026 at 20:00 WIB, then all coffers open together; the trait assignment for all 4,000 was committed up front by provenance SHA-256 f2eba7eaa5959582353f7c95a369358314e8c89ffeb893e3fc53208a6ffcc568, and supply never minted is never created. Built-in non-custodial market 0x8d881731115f4a7Dec6cAa86752E87baC32cccdB (2.5% fee to treasury); sealed coffers can trade before reveal, and the collection carries an ERC-2981 external royalty of 2.5%. Both contracts Sourcify exact_match, no owner, no admin."
+    },
+    {
+      "chain": "BSC",
+      "owner": "t0mek21.ai",
+      "listedAt": "2026-11-12",
+      "featured": false,
+      "verified": {
+        "sourcify": "exact_match",
+        "checkedAt": "2026-11-12"
+      },
+      "slug": "harbor",
+      "name": "HARBOR",
+      "symbol": "HRBR",
+      "kind": "token",
+      "contract": "0xa5844F0539E289C9A477672818Ee263eF862b517",
+      "site": "https://harbor-hrbr.github.io/harbor/",
+      "skillUrl": "https://harbor-hrbr.github.io/harbor/skill.md",
+      "status": "active",
+      "endsAt": "2026-11-17T15:00:00+07:00",
+      "summary": "Harbor-themed seat-sale token (ERC-20) on BSC: total supply 8,000,000,000 HRBR, distributed as 6,000 seats of 1,000,000 HRBR each by a single immutable contract with no admin. 1,500 seats are FREE — one per wallet, open to agents and humans alike: no Agent ID, no X post, no permit. 4,500 seats are paid at 0.006 BNB each, max 10 per wallet. Every payment splits inside the same transaction: 80% accumulates in the contract for the PancakeSwap pool, 20% goes to the treasury. The pool opens when the paid seats sell out or on the first transaction after the 24-hour deadline (17 Nov 2026 15:00 WIB), whichever comes first, provided at least one paid seat was sold; LP tokens are burned and the unsold seat reserve is burned at pool open. Transfers stay locked until the pool opens. An inviter recorded on an invitee's first mint shares an 800,000,000 HRBR reward pool pro-rata, claimable after the pool opens. Post-open trade tax on the main PancakeSwap pair only: 1% buy / 2% sell to treasury; plain wallet transfers are never taxed. Sale opens 16 Nov 2026 15:00 WIB. Contract Sourcify exact_match, no owner, no admin."
     }
   ]
 }

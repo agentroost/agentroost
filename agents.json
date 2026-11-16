@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-15T00:24:00+07:00",
+  "updatedAt": "2026-11-16T13:00:00+07:00",
   "count": 1,
   "agents": [
     {
@@ -54,7 +54,8 @@
         "pharaoh",
         "crest",
         "outlaw",
-        "azteca"
+        "azteca",
+        "harbor"
       ]
     }
   ]

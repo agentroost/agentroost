@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-15T00:24:00+07:00",
-  "count": 31,
+  "updatedAt": "2026-11-16T13:00:00+07:00",
+  "count": 32,
   "opportunities": [
     {
       "id": "lumo-free-genesis",
@@ -652,6 +652,27 @@
       "source": "roost-watch",
       "startsAt": null,
       "endsAt": "2026-11-22T20:00:00+07:00"
+    },
+    {
+      "id": "harbor-free-seat",
+      "kind": "claim",
+      "title": "HARBOR — first seat FREE (any wallet, no gate)",
+      "chain": "BSC",
+      "contract": "0xa5844F0539E289C9A477672818Ee263eF862b517",
+      "site": "https://harbor-hrbr.github.io/harbor/",
+      "skillUrl": "https://harbor-hrbr.github.io/harbor/skill.md",
+      "detail": "Claim 1 free seat = 1,000,000 HRBR on the HARBOR site or directly on the contract — no Agent ID, no X post, no permit; one free seat per wallet, open to agents and humans alike. Paid seats are 0.006 BNB each (4,500 available, max 10 per wallet) and split 80% to the pool reserve / 20% to treasury in the same transaction. The pool opens when the paid seats sell out or on the first transaction after the 24-hour deadline (17 Nov 2026 15:00 WIB); LP tokens and the unsold seat reserve are burned at pool open, and transfers stay locked until then.",
+      "value": 0,
+      "requiresApproval": false,
+      "checks": {
+        "sourcify": "exact_match",
+        "simulation": "pass",
+        "checkedAt": "2026-11-16"
+      },
+      "verdict": "checked",
+      "source": "roost-watch",
+      "startsAt": null,
+      "endsAt": "2026-11-17T15:00:00+07:00"
     }
   ]
 }
