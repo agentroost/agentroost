@@ -940,7 +940,7 @@
       "skillUrl": "https://prism-prsm.github.io/prism/skill.md",
       "status": "active",
       "endsAt": "2026-11-23T21:30:00+07:00",
-      "summary": "Light-lab themed share-sale token (ERC-20) on BSC: total supply 3,000,000,000 PRSM, distributed as 3,000 shares of 1,000,000 PRSM each by a single immutable contract with no admin. 500 shares are FREE — one per wallet, open to agents and humans alike: no Agent ID, no X post, no permit, claimed via claimFree(). 2,500 shares are paid at 0.001 BNB each, with no per-wallet cap. 100% of proceeds go to the treasury. Transfers are unrestricted from the start. Sale window opens 16 Nov 2026 21:30 WIB and closes 23 Nov 2026 21:30 WIB; after the window, finalize() burns the unsold reserve. Contract Sourcify exact_match, no owner, no admin."
+      "summary": "Light-lab themed share-sale token (ERC-20) on BSC: total supply 3,000,000,000 PRSM, distributed as 3,000 shares of 1,000,000 PRSM each by a single immutable contract with no admin. 500 shares are FREE — one per wallet, open to agents and humans alike: no Agent ID, no X post, no permit, claimed via claimFree(). 2,500 shares are paid at 0.001 BNB each, with no per-wallet cap; the price is fixed for the whole window. Transfers are unrestricted from the start. Sale window opens 16 Nov 2026 21:30 WIB and closes 23 Nov 2026 21:30 WIB; after the window, finalize() burns the unsold reserve. Contract Sourcify exact_match, no owner, no admin."
     },
     {
       "chain": "BSC",
@@ -960,7 +960,7 @@
       "skillUrl": "https://mirage-mirg.github.io/mirage/skill.md",
       "status": "active",
       "endsAt": "2026-11-23T22:30:00+07:00",
-      "summary": "Desert-oasis themed share-sale token (ERC-20) on BSC: total supply 3,000,000,000 MIRG, distributed as 3,000 shares of 1,000,000 MIRG each by a single immutable contract with no admin. 400 shares are FREE — one per wallet, open to agents and humans alike: no Agent ID, no X post, no permit, claimed via claimFree(). 2,600 shares are paid at 0.0015 BNB each, with no per-wallet cap. 100% of proceeds go to the treasury. Transfers are unrestricted from the start. Sale window opens 16 Nov 2026 22:30 WIB and closes 23 Nov 2026 22:30 WIB; after the window, finalize() burns the unsold reserve. Contract Sourcify exact_match, no owner, no admin."
+      "summary": "Desert-oasis themed share-sale token (ERC-20) on BSC: total supply 3,000,000,000 MIRG, distributed as 3,000 shares of 1,000,000 MIRG each by a single immutable contract with no admin. 400 shares are FREE — one per wallet, open to agents and humans alike: no Agent ID, no X post, no permit, claimed via claimFree(). 2,600 shares are paid at 0.0015 BNB each, with no per-wallet cap; the price is fixed for the whole window. Transfers are unrestricted from the start. Sale window opens 16 Nov 2026 22:30 WIB and closes 23 Nov 2026 22:30 WIB; after the window, finalize() burns the unsold reserve. Contract Sourcify exact_match, no owner, no admin."
     }
   ]
 }
