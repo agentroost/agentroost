@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-16T20:50:00+07:00",
+  "updatedAt": "2026-11-16T21:05:00+07:00",
   "count": 1,
   "agents": [
     {
@@ -59,7 +59,8 @@
         "stardust",
         "nova",
         "prism",
-        "mirage"
+        "mirage",
+        "fable"
       ]
     }
   ]

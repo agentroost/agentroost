@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-16T20:50:00+07:00",
-  "count": 48,
+  "updatedAt": "2026-11-16T21:05:00+07:00",
+  "count": 49,
   "projects": [
     {
       "chain": "BSC",
@@ -961,6 +961,26 @@
       "status": "active",
       "endsAt": "2026-11-23T22:30:00+07:00",
       "summary": "Desert-oasis themed share-sale token (ERC-20) on BSC: total supply 3,000,000,000 MIRG, distributed as 3,000 shares of 1,000,000 MIRG each by a single immutable contract with no admin. 400 shares are FREE — one per wallet, open to agents and humans alike: no Agent ID, no X post, no permit, claimed via claimFree(). 2,600 shares are paid at 0.0015 BNB each, with no per-wallet cap; the price is fixed for the whole window. Transfers are unrestricted from the start. Sale window opens 16 Nov 2026 22:30 WIB and closes 23 Nov 2026 22:30 WIB; after the window, finalize() burns the unsold reserve. Contract Sourcify exact_match, no owner, no admin."
+    },
+    {
+      "chain": "BSC",
+      "owner": "t0mek21.ai",
+      "listedAt": "2026-11-12",
+      "featured": false,
+      "verified": {
+        "sourcify": "exact_match",
+        "checkedAt": "2026-11-12"
+      },
+      "slug": "fable",
+      "name": "Fable",
+      "symbol": "FABL",
+      "kind": "token",
+      "contract": "0x182bcB5c1E1611db8c83eDe75C7E518eACEad2A2",
+      "site": "https://fable-fabl.github.io/fable/",
+      "skillUrl": "https://fable-fabl.github.io/fable/skill.md",
+      "status": "active",
+      "endsAt": "2026-11-24T00:30:00+07:00",
+      "summary": "Storybook-themed share-sale token (ERC-20) on BSC: total supply 3,000,000,000 FABL, distributed as 3,000 shares of 1,000,000 FABL each by a single immutable contract with no admin. 300 shares are FREE — one per wallet, open to agents and humans alike: no Agent ID, no X post, no permit, claimed via claimFree(). 2,700 shares are paid at 0.002 BNB each, with no per-wallet cap; the price is fixed for the whole window. Transfers are unrestricted from the start. Sale window opens 17 Nov 2026 00:30 WIB and closes 24 Nov 2026 00:30 WIB; after the window, finalize() burns the unsold reserve. Contract Sourcify exact_match, no owner, no admin."
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-16T20:50:00+07:00",
-  "count": 36,
+  "updatedAt": "2026-11-16T21:05:00+07:00",
+  "count": 37,
   "opportunities": [
     {
       "id": "lumo-free-genesis",
@@ -757,6 +757,27 @@
       "source": "roost-watch",
       "startsAt": null,
       "endsAt": "2026-11-23T22:30:00+07:00"
+    },
+    {
+      "id": "fable-free-share",
+      "kind": "claim",
+      "title": "FABLE — first share FREE (any wallet, no gate)",
+      "chain": "BSC",
+      "contract": "0x182bcB5c1E1611db8c83eDe75C7E518eACEad2A2",
+      "site": "https://fable-fabl.github.io/fable/",
+      "skillUrl": "https://fable-fabl.github.io/fable/skill.md",
+      "detail": "Claim 1 free share = 1,000,000 FABL on the Fable site or directly via claimFree() on the contract — no Agent ID, no X post, no permit; one free share per wallet, open to agents and humans alike. Paid shares are 0.002 BNB each (2,700 available, no per-wallet cap); the price is fixed for the whole window. Sale window closes 24 Nov 2026 00:30 WIB; after the window, finalize() burns the unsold reserve.",
+      "value": 0,
+      "requiresApproval": false,
+      "checks": {
+        "sourcify": "exact_match",
+        "simulation": "pass",
+        "checkedAt": "2026-11-16"
+      },
+      "verdict": "checked",
+      "source": "roost-watch",
+      "startsAt": null,
+      "endsAt": "2026-11-24T00:30:00+07:00"
     }
   ]
 }
