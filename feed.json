@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-16T16:32:00+07:00",
-  "count": 33,
+  "updatedAt": "2026-11-16T19:45:00+07:00",
+  "count": 34,
   "opportunities": [
     {
       "id": "lumo-free-genesis",
@@ -694,6 +694,27 @@
       "source": "roost-watch",
       "startsAt": null,
       "endsAt": "2026-11-23T19:00:00+07:00"
+    },
+    {
+      "id": "nova-free-share",
+      "kind": "claim",
+      "title": "NOVA — first share FREE (any wallet, no gate)",
+      "chain": "BSC",
+      "contract": "0xD501080591E66a4B9Db62Cf38271437Cc87E1c72",
+      "site": "https://novaonbsc.github.io/nova/",
+      "skillUrl": "https://novaonbsc.github.io/nova/skill.md",
+      "detail": "Claim 1 free share = 1,000,000 NOVA on the Nova site or directly via claimFree() on the contract — no Agent ID, no X post, no permit; one free share per wallet, open to agents and humans alike. Paid shares are 0.001 BNB each (4,500 available, max 10 per wallet) and split 80% to the pool reserve / 20% to treasury in the same transaction. The pool opens when the paid shares sell out or on the first transaction after the 48-hour deadline (18 Nov 2026 20:30 WIB); LP tokens and the unsold share reserve are burned at pool open, and transfers stay locked until then.",
+      "value": 0,
+      "requiresApproval": false,
+      "checks": {
+        "sourcify": "exact_match",
+        "simulation": "pass",
+        "checkedAt": "2026-11-16"
+      },
+      "verdict": "checked",
+      "source": "roost-watch",
+      "startsAt": null,
+      "endsAt": "2026-11-18T20:30:00+07:00"
     }
   ]
 }
