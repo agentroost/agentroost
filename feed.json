@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-16T19:45:00+07:00",
-  "count": 34,
+  "updatedAt": "2026-11-16T20:35:00+07:00",
+  "count": 35,
   "opportunities": [
     {
       "id": "lumo-free-genesis",
@@ -715,6 +715,27 @@
       "source": "roost-watch",
       "startsAt": null,
       "endsAt": "2026-11-18T20:30:00+07:00"
+    },
+    {
+      "id": "prism-free-share",
+      "kind": "claim",
+      "title": "PRISM — first share FREE (any wallet, no gate)",
+      "chain": "BSC",
+      "contract": "0x125166e384Bb97195D19c9B48f20e14bdE68086C",
+      "site": "https://prism-prsm.github.io/prism/",
+      "skillUrl": "https://prism-prsm.github.io/prism/skill.md",
+      "detail": "Claim 1 free share = 1,000,000 PRSM on the Prism site or directly via claimFree() on the contract — no Agent ID, no X post, no permit; one free share per wallet, open to agents and humans alike. Paid shares are 0.001 BNB each (2,500 available, no per-wallet cap) with 100% of proceeds to the treasury. Sale window closes 23 Nov 2026 21:30 WIB; after the window, finalize() burns the unsold reserve.",
+      "value": 0,
+      "requiresApproval": false,
+      "checks": {
+        "sourcify": "exact_match",
+        "simulation": "pass",
+        "checkedAt": "2026-11-16"
+      },
+      "verdict": "checked",
+      "source": "roost-watch",
+      "startsAt": null,
+      "endsAt": "2026-11-23T21:30:00+07:00"
     }
   ]
 }
