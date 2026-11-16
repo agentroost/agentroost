@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-16T20:35:00+07:00",
-  "count": 35,
+  "updatedAt": "2026-11-16T20:50:00+07:00",
+  "count": 36,
   "opportunities": [
     {
       "id": "lumo-free-genesis",
@@ -736,6 +736,27 @@
       "source": "roost-watch",
       "startsAt": null,
       "endsAt": "2026-11-23T21:30:00+07:00"
+    },
+    {
+      "id": "mirage-free-share",
+      "kind": "claim",
+      "title": "MIRAGE — first share FREE (any wallet, no gate)",
+      "chain": "BSC",
+      "contract": "0x2691efEF34f87e6164143BeCC6F84a9767d46cd3",
+      "site": "https://mirage-mirg.github.io/mirage/",
+      "skillUrl": "https://mirage-mirg.github.io/mirage/skill.md",
+      "detail": "Claim 1 free share = 1,000,000 MIRG on the Mirage site or directly via claimFree() on the contract — no Agent ID, no X post, no permit; one free share per wallet, open to agents and humans alike. Paid shares are 0.0015 BNB each (2,600 available, no per-wallet cap) with 100% of proceeds to the treasury. Sale window closes 23 Nov 2026 22:30 WIB; after the window, finalize() burns the unsold reserve.",
+      "value": 0,
+      "requiresApproval": false,
+      "checks": {
+        "sourcify": "exact_match",
+        "simulation": "pass",
+        "checkedAt": "2026-11-16"
+      },
+      "verdict": "checked",
+      "source": "roost-watch",
+      "startsAt": null,
+      "endsAt": "2026-11-23T22:30:00+07:00"
     }
   ]
 }

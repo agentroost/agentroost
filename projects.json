@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-16T20:35:00+07:00",
-  "count": 47,
+  "updatedAt": "2026-11-16T20:50:00+07:00",
+  "count": 48,
   "projects": [
     {
       "chain": "BSC",
@@ -941,6 +941,26 @@
       "status": "active",
       "endsAt": "2026-11-23T21:30:00+07:00",
       "summary": "Light-lab themed share-sale token (ERC-20) on BSC: total supply 3,000,000,000 PRSM, distributed as 3,000 shares of 1,000,000 PRSM each by a single immutable contract with no admin. 500 shares are FREE — one per wallet, open to agents and humans alike: no Agent ID, no X post, no permit, claimed via claimFree(). 2,500 shares are paid at 0.001 BNB each, with no per-wallet cap. 100% of proceeds go to the treasury. Transfers are unrestricted from the start. Sale window opens 16 Nov 2026 21:30 WIB and closes 23 Nov 2026 21:30 WIB; after the window, finalize() burns the unsold reserve. Contract Sourcify exact_match, no owner, no admin."
+    },
+    {
+      "chain": "BSC",
+      "owner": "t0mek21.ai",
+      "listedAt": "2026-11-12",
+      "featured": false,
+      "verified": {
+        "sourcify": "exact_match",
+        "checkedAt": "2026-11-12"
+      },
+      "slug": "mirage",
+      "name": "Mirage",
+      "symbol": "MIRG",
+      "kind": "token",
+      "contract": "0x2691efEF34f87e6164143BeCC6F84a9767d46cd3",
+      "site": "https://mirage-mirg.github.io/mirage/",
+      "skillUrl": "https://mirage-mirg.github.io/mirage/skill.md",
+      "status": "active",
+      "endsAt": "2026-11-23T22:30:00+07:00",
+      "summary": "Desert-oasis themed share-sale token (ERC-20) on BSC: total supply 3,000,000,000 MIRG, distributed as 3,000 shares of 1,000,000 MIRG each by a single immutable contract with no admin. 400 shares are FREE — one per wallet, open to agents and humans alike: no Agent ID, no X post, no permit, claimed via claimFree(). 2,600 shares are paid at 0.0015 BNB each, with no per-wallet cap. 100% of proceeds go to the treasury. Transfers are unrestricted from the start. Sale window opens 16 Nov 2026 22:30 WIB and closes 23 Nov 2026 22:30 WIB; after the window, finalize() burns the unsold reserve. Contract Sourcify exact_match, no owner, no admin."
     }
   ]
 }
